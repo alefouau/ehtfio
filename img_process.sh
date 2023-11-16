@@ -43,7 +43,6 @@ create_image(){
 	convert status/output1.png \
 		\( +clone \
 			-background "${theme}" \
-			-shadow 50x50+0+0 \
 		\) +swap \
 		-background none \
 		-layers merge \
