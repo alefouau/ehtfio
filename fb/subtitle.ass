@@ -27,461 +27,418 @@ Style: Signs_NextEp,Times New Roman,24,&H005A3C3C,&H000000FF,&H00FEF6F5,&H000000
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:00.18,0:00:05.10,Signs_Boxed,Sign,0000,0000,0000,,{\fad(946,1)\fs16\3c&H3608CD&\bord2\pos(534,17)}Special Program
-Dialogue: 0,0:00:00.18,0:00:05.10,Signs,Sign,0000,0000,0000,,{\fad(946,1)\3c&HFDFEFB&\fs10\c&H16110A&\bord2\pos(527.5,84)}Three years since that achievement——\NThe current state of {\c&HC4BD67&}Japan's rocket industry{\c&H16110A&}.
-Dialogue: 0,0:00:00.80,0:00:05.10,DefaultItalics,Announcer A,0000,0000,0000,,At last, it's Japan's first successful \Nfully private satellite launch!
-Dialogue: 0,0:00:06.01,0:00:08.11,DefaultItalics,Announcer B,0000,0000,0000,,Three years ago, \Nspurred on by this success...
-Dialogue: 0,0:00:10.34,0:00:12.61,DefaultItalics,Umika,0000,0000,0000,,Rockets really are the coolest!
-Dialogue: 0,0:00:12.61,0:00:15.11,Signs_Boxed,Sign,0000,0000,0000,,{\fs16\3c&H3608CD&\bord2\pos(534,17)}Special Program
-Dialogue: 0,0:00:12.61,0:00:15.11,Signs,Sign,0000,0000,0000,,{\3c&HFDFEFB&\fs10\c&H16110A&\bord2\pos(527.5,84)}Three years since that achievement——\NThe current state of {\c&HC4BD67&}Japan's rocket industry{\c&H16110A&}.
-Dialogue: 0,0:00:13.38,0:00:17.90,DefaultItalics,Umika,0000,0000,0000,,One day, I'll build a rocket like that!
-Dialogue: 0,0:00:17.90,0:00:18.81,DefaultItalics,Honami,0000,0000,0000,,Onee-chan...
-Dialogue: 0,0:00:18.81,0:00:20.49,DefaultItalics,Honami,0000,0000,0000,,She's off in her own little world again.
-Dialogue: 0,0:00:21.24,0:00:23.20,DefaultItalics,Umika,0000,0000,0000,,Akeuchi-san, Takaragi-san, and I...
-Dialogue: 0,0:00:23.20,0:00:24.45,DefaultItalics,Umika,0000,0000,0000,,We'll go to space!
-Dialogue: 0,0:01:50.23,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(2103,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardus{\alpha&H00&}t{\alpha&HFF&} Telepath
-Dialogue: 0,0:01:50.26,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(2079,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}S{\alpha&H00&}t{\alpha&HFF&}ardust Telepath
-Dialogue: 0,0:01:50.34,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1998,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust T{\alpha&H00&}e{\alpha&HFF&}lepath
-Dialogue: 0,0:01:50.37,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1968,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Te{\alpha&H00&}l{\alpha&HFF&}epath
-Dialogue: 0,0:01:50.44,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1895,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Star{\alpha&H00&}d{\alpha&HFF&}ust Telepath
-Dialogue: 0,0:01:50.44,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1894,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telep{\alpha&H00&}a{\alpha&HFF&}th
-Dialogue: 0,0:01:50.45,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1884,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardu{\alpha&H00&}s{\alpha&HFF&}t Telepath
-Dialogue: 0,0:01:50.75,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1583,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Tele{\alpha&H00&}p{\alpha&HFF&}ath
-Dialogue: 0,0:01:50.94,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1396,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stard{\alpha&H00&}u{\alpha&HFF&}st Telepath
-Dialogue: 0,0:01:50.95,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1389,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}St{\alpha&H00&}a{\alpha&HFF&}rdust Telepath
-Dialogue: 0,0:01:51.16,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1178,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telepa{\alpha&H00&}t{\alpha&HFF&}h
-Dialogue: 0,0:01:51.33,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(1007,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust {\alpha&H00&}T{\alpha&HFF&}elepath
-Dialogue: 0,0:01:51.50,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(836,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&H00&}S{\alpha&HFF&}tardust Telepath
-Dialogue: 0,0:01:51.55,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(782,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telepat{\alpha&H00&}h
-Dialogue: 0,0:01:51.56,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(780,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Tel{\alpha&H00&}e{\alpha&HFF&}path
-Dialogue: 0,0:01:52.10,0:01:55.01,Signs,Title,0000,0000,0000,,{\fad(239,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Sta{\alpha&H00&}r{\alpha&HFF&}dust Telepath
-Dialogue: 0,0:01:55.76,0:01:58.76,Signs_EpTitle,Sign,0000,0000,0000,,{\fad(773,767)\pos(220,26)}Episode 3\N\N\NExplosive Mechanic
-Dialogue: 0,0:01:59.26,0:02:00.76,Default,Yu,0000,0000,0000,,Okay, Number 5!
-Dialogue: 0,0:02:00.76,0:02:02.26,Default,Yu,0000,0000,0000,,Here we go!
-Dialogue: 0,0:02:02.26,0:02:06.14,Default,Group,0000,0000,0000,,Three! Two! One!
-Dialogue: 0,0:02:10.08,0:02:12.05,Default,Yu,0000,0000,0000,,Fly high!
-Dialogue: 0,0:02:17.92,0:02:20.37,Default,Haruno,0000,0000,0000,,Number 1, flight distance unknown.
-Dialogue: 0,0:02:20.37,0:02:22.87,Default,Haruno,0000,0000,0000,,Number 2, 61 meters.
-Dialogue: 0,0:02:22.87,0:02:25.39,Default,Haruno,0000,0000,0000,,Number 3, 24 meters.
-Dialogue: 0,0:02:25.39,0:02:27.85,Default,Haruno,0000,0000,0000,,Number 4, 76 meters!
-Dialogue: 0,0:02:27.85,0:02:29.96,Default,Haruno,0000,0000,0000,,Number 5, 82 meters!
-Dialogue: 0,0:02:30.77,0:02:31.67,Default,Haruno,0000,0000,0000,,Mm-hmm!
-Dialogue: 0,0:02:31.67,0:02:33.52,Default,Haruno,0000,0000,0000,,They're gradually flying farther!
-Dialogue: 0,0:02:33.52,0:02:34.42,Default,Yu,0000,0000,0000,,Awesome!
-Dialogue: 0,0:02:35.04,0:02:39.27,DefaultItalics,Umika,0000,0000,0000,,The key lies in the weight of the rocket, \Nas well as the amount of water and air.
-Dialogue: 0,0:02:39.27,0:02:40.68,Default,Yu,0000,0000,0000,,If we keep this up...
-Dialogue: 0,0:02:41.28,0:02:43.59,Default,Yu,0000,0000,0000,,We should make it to space by Number 100!
-Dialogue: 0,0:02:43.59,0:02:44.40,Default,Haruno,0000,0000,0000,,Hgh!
-Dialogue: 0,0:02:44.40,0:02:45.43,Default,Umika,0000,0000,0000,,Hghgh...
-Dialogue: 0,0:02:45.43,0:02:49.19,DefaultItalics,Umika,0000,0000,0000,,We can build hundreds \Nof water bottle rockets,
-Dialogue: 0,0:02:49.19,0:02:51.92,DefaultItalics,Umika,0000,0000,0000,,but there's no way any of them \Nwill ever reach space.
-Dialogue: 0,0:02:51.92,0:02:53.90,DefaultItalics,Umika,0000,0000,0000,,The real question is what comes next.
-Dialogue: 0,0:02:53.90,0:02:54.94,DefaultItalics,Umika,0000,0000,0000,,However...
-Dialogue: 0,0:02:54.98,0:02:59.95,Signs,Sign,0000,0000,0000,,{\fad(236,1)\an7\fs10\fnArial Black\bord1.5\c&H4AA69E&\3c&H645309&\frz353.8\fax0.1\pos(260.5,216.5)}Visual Encyclopedia\Nof Space Rockets
-Dialogue: 0,0:02:55.38,0:02:59.95,DefaultItalics,Umika,0000,0000,0000,,I may have just started learning about \Nrockets, but self-study isn't enough!
-Dialogue: 0,0:03:00.40,0:03:04.93,DefaultItalics,Umika,0000,0000,0000,,I hate to admit it, but I'm \Nlacking everything we need.
-Dialogue: 0,0:03:04.93,0:03:06.93,DefaultItalics,Umika,0000,0000,0000,,Skills, knowledge...
-Dialogue: 0,0:03:06.93,0:03:09.33,DefaultItalics,Umika,0000,0000,0000,,I-In fact, you could even say...
-Dialogue: 0,0:03:09.33,0:03:12.67,Default,Haruno,0000,0000,0000,,What we need is a capable mechanic.
-Dialogue: 0,0:03:13.33,0:03:14.96,Default,Yu,0000,0000,0000,,A mechanic?
-Dialogue: 0,0:03:15.22,0:03:18.36,Default,Haruno,0000,0000,0000,,A manned rocket is a massive \Npiece of equipment.
-Dialogue: 0,0:03:18.36,0:03:21.41,Default,Haruno,0000,0000,0000,,It'd be best if we had someone \Nwith all the proper know-how.
-Dialogue: 0,0:03:21.41,0:03:25.22,Default,Haruno,0000,0000,0000,,Yu-chan, didn't you come \Nto Earth in a spaceship?
-Dialogue: 0,0:03:25.22,0:03:27.56,Default,Haruno,0000,0000,0000,,Do you happen to know your way \Naround machinery?
-Dialogue: 0,0:03:28.72,0:03:32.23,Default,Yu,0000,0000,0000,,What kind of ship did I even come here in?
-Dialogue: 0,0:03:32.48,0:03:37.42,Default,Yu,0000,0000,0000,,Even if we assume that my spaceship \Nwas close to an Earth rocket in design...
-Dialogue: 0,0:03:38.53,0:03:41.86,Signs,Sign,0000,0000,0000,,{\fad(897,1)\fnArial Black\c&HF9FBF8&\3c&H383838&\bord1\fay-0.19\pos(328,50.5)}A brilliant deduction!!
-Dialogue: 0,0:03:38.61,0:03:40.85,Default,Yu,0000,0000,0000,,I bet it crashed because \NI didn't know much about it!
-Dialogue: 0,0:03:40.85,0:03:41.86,Default,Haruno,0000,0000,0000,,Makes sense.
-Dialogue: 0,0:03:42.32,0:03:43.68,DefaultItalics,Umika,0000,0000,0000,,Machinery?
-Dialogue: 0,0:03:43.68,0:03:47.49,DefaultItalics,Umika,0000,0000,0000,,Maybe she'd know about rockets, too...
-Dialogue: 0,0:03:47.49,0:03:50.06,DefaultItalics,Umika,0000,0000,0000,,No, but that person...
-Dialogue: 0,0:03:47.66,0:03:50.16,Signs,Sign,0000,0000,0000,,{\fad(442,1)\an6\fs40\fnArial Black\c&H10170B&\move(411.5,231,600,31,25,1860)\clip(m 339 0 l 381 34 400 183 408 213 420 253 640 142 640 0)\frz43.56}Gmmmggggh
-Dialogue: 0,0:03:50.06,0:03:51.03,Default,Haruno,0000,0000,0000,,Umika-chan?
-Dialogue: 0,0:03:51.03,0:03:52.62,Default,Haruno,0000,0000,0000,,Did you have someone in mind?
-Dialogue: 0,0:03:52.62,0:03:54.13,Default,Yu,0000,0000,0000,,Huh? Who is it?
-Dialogue: 0,0:03:54.13,0:03:55.72,Default,Umika,0000,0000,0000,,U-Um, well...
-Dialogue: 0,0:03:55.72,0:03:56.38,Default,Haruno,0000,0000,0000,,Yu-chan!
-Dialogue: 0,0:03:56.38,0:03:58.88,Default,Haruno,0000,0000,0000,,Now's the perfect chance \Nfor some foreheadpathy!
-Dialogue: 0,0:03:58.88,0:04:00.34,Default,Umika,0000,0000,0000,,T-Takaragi-san?
-Dialogue: 0,0:04:00.34,0:04:03.75,Default,Yu,0000,0000,0000,,Umika!
-Dialogue: 0,0:04:10.24,0:04:11.10,Default,Yu,0000,0000,0000,,There!
-Dialogue: 0,0:04:11.34,0:04:14.07,Default,Yu,0000,0000,0000,,I've drawn a likeness of her \Nfrom Umika's thoughts!
-Dialogue: 0,0:04:14.07,0:04:15.67,Default,Haruno,0000,0000,0000,,A work of art.
-Dialogue: 0,0:04:16.65,0:04:19.15,Default,Haruno,0000,0000,0000,,I see! It's Matataki-chan!
-Dialogue: 0,0:04:19.63,0:04:20.73,Default,Yu,0000,0000,0000,,Matataki?
-Dialogue: 0,0:04:20.73,0:04:23.90,Default,Haruno,0000,0000,0000,,Matataki Raimon-chan, from our class.
-Dialogue: 0,0:04:24.34,0:04:26.53,Default,Yu,0000,0000,0000,,I don't remember anyone with that name.
-Dialogue: 0,0:04:26.85,0:04:30.84,Default,Haruno,0000,0000,0000,,Well, I've only ever really met her one time.
-Dialogue: 0,0:04:30.84,0:04:32.05,Default,Yu,0000,0000,0000,,One time?!
-Dialogue: 0,0:04:32.05,0:04:34.46,Default,Umika,0000,0000,0000,,Y-You see, Raimon-san...
-Dialogue: 0,0:04:36.07,0:04:42.21,Default,Umika,0000,0000,0000,,hasn't attended class... \No-once since entering high school.
-Dialogue: 0,0:04:42.48,0:04:43.95,Default,Haruno,0000,0000,0000,,That's right.
-Dialogue: 0,0:04:43.95,0:04:48.16,Default,Haruno,0000,0000,0000,,I've visited her house countless times \Nto bring her notes for our classes,
-Dialogue: 0,0:04:48.16,0:04:50.02,Default,Haruno,0000,0000,0000,,but she isn't home very often, either.
-Dialogue: 0,0:04:51.24,0:04:52.40,Default,Haruno,0000,0000,0000,,Umika-chan.
-Dialogue: 0,0:04:52.40,0:04:54.98,Default,Haruno,0000,0000,0000,,Do you want to try going over \Nto Matataki-chan's house?
-Dialogue: 0,0:04:55.65,0:04:56.48,Default,Umika,0000,0000,0000,,What?!
-Dialogue: 0,0:04:56.48,0:04:58.30,Default,Yu,0000,0000,0000,,Let's go! As a group!
-Dialogue: 0,0:04:58.30,0:04:59.23,Default,Umika,0000,0000,0000,,What?!
-Dialogue: 0,0:04:59.23,0:05:00.77,Default,Yu,0000,0000,0000,,Mupipi...
-Dialogue: 0,0:05:00.77,0:05:04.17,Default,Yu,0000,0000,0000,,I'm so psyched to go over \Nto a friend's house!
-Dialogue: 0,0:05:04.17,0:05:06.59,DefaultItalics,Umika,0000,0000,0000,,They haven't even met, but Akeuchi-san \Nalready considers her a friend.
-Dialogue: 0,0:05:06.59,0:05:08.74,DefaultItalics,Umika,0000,0000,0000,,I guess I'm not surprised.
-Dialogue: 0,0:05:13.83,0:05:15.75,DefaultItalics,Umika,0000,0000,0000,,We really came here.
-Dialogue: 0,0:05:15.75,0:05:19.00,Default,Haruno,0000,0000,0000,,I just hope Matataki-chan is home today.
-Dialogue: 0,0:05:19.36,0:05:22.56,Default,Yu,0000,0000,0000,,Umika, are you nervous, by any chance?
-Dialogue: 0,0:05:22.56,0:05:24.26,Default,Umika,0000,0000,0000,,I-I-I-I-I'm fine...
-Dialogue: 0,0:05:24.63,0:05:26.47,Default,Haruno,0000,0000,0000,,Can I ring the doorbell?
-Dialogue: 0,0:05:27.13,0:05:29.27,Default,Umika,0000,0000,0000,,S-S-S-Shtep right in!
-Dialogue: 0,0:05:29.27,0:05:33.52,Default,Haruno,0000,0000,0000,,Okay, let's wait until \Nyou're ready to handle it.
-Dialogue: 0,0:05:33.52,0:05:34.94,Default,Matataki,0000,0000,0000,,What?!
-Dialogue: 0,0:05:34.94,0:05:35.69,Default,Haruno,0000,0000,0000,,Oh?
-Dialogue: 0,0:05:36.39,0:05:40.15,Default,Matataki,0000,0000,0000,,Damn it, old man, \Nyou stole my toolbox {\i1}again{\i0}?!
-Dialogue: 0,0:05:40.56,0:05:43.28,Default,Matataki,0000,0000,0000,,You've got your own, so quit using mine!
-Dialogue: 0,0:05:48.28,0:05:50.41,Default,Haruno,0000,0000,0000,,Hello there, Matataki-chan!
-Dialogue: 0,0:05:56.80,0:05:58.34,Default,Haruno,0000,0000,0000,,Long time no see!
-Dialogue: 0,0:05:58.34,0:05:59.67,Default,Haruno,0000,0000,0000,,I'm glad we could meet again!
-Dialogue: 0,0:05:59.67,0:06:01.44,Default,Matataki,0000,0000,0000,,Hey! Don't just force your way in here!
-Dialogue: 0,0:06:01.44,0:06:04.67,Default,Haruno,0000,0000,0000,,I'm back again to give you \Nmy notes from class.
-Dialogue: 0,0:06:04.67,0:06:06.36,Default,Matataki,0000,0000,0000,,I told you to buzz off!
-Dialogue: 0,0:06:06.36,0:06:08.40,Default,Matataki,0000,0000,0000,,Also, get out of my house!
-Dialogue: 0,0:06:08.40,0:06:10.73,Default,Yu,0000,0000,0000,,So you're Matataki?
-Dialogue: 0,0:06:10.73,0:06:13.51,Default,Yu,0000,0000,0000,,Peggyov movrovpivuubavuv vuv!
-Dialogue: 0,0:06:14.24,0:06:16.52,Default,Matataki,0000,0000,0000,,Pe... what?
-Dialogue: 0,0:06:16.72,0:06:18.02,Default,Yu,0000,0000,0000,,Hey, there!
-Dialogue: 0,0:06:18.02,0:06:20.62,Default,Yu,0000,0000,0000,,I'm Yu Akeuchi, and I'm an alien!
-Dialogue: 0,0:06:20.62,0:06:23.52,Default,Umika,0000,0000,0000,,U-U-Um... Uh, I-I-I-I'm...
-Dialogue: 0,0:06:23.77,0:06:25.70,DefaultTop,Yu,0000,0000,0000,,Movrov! Movrov!
-Dialogue: 0,0:06:24.48,0:06:27.53,Default,Matataki,0000,0000,0000,,Is everyone here a nutjob besides me?
-Dialogue: 0,0:06:27.71,0:06:32.21,Default,Haruno,0000,0000,0000,,We came over because we were hoping \Nto get a chance to talk with you!
-Dialogue: 0,0:06:32.21,0:06:35.16,Default,Matataki,0000,0000,0000,,My workshop isn't for your \Nlittle house parties!
-Dialogue: 0,0:06:35.52,0:06:38.24,Default,Yu,0000,0000,0000,,Wow! Check out all these gizmos!
-Dialogue: 0,0:06:38.24,0:06:39.79,Default,Yu,0000,0000,0000,,Super mechanic-y!
-Dialogue: 0,0:06:40.42,0:06:41.40,Default,Matataki,0000,0000,0000,,Hands off!
-Dialogue: 0,0:06:41.40,0:06:43.27,Default,Matataki,0000,0000,0000,,Always perform a personal RA!
-Dialogue: 0,0:06:42.67,0:06:43.67,Signs,Sign,0000,0000,0000,,{\fs30\bord1.5\fnGeorgia\c&H111B2D&\3c&H496199&\pos(320,233.5)}RA = Risk Assessment
-Dialogue: 0,0:06:43.98,0:06:45.86,Default,Matataki,0000,0000,0000,,If you've got no business \Nwith me, then scram!
-Dialogue: 0,0:06:45.86,0:06:48.52,Default,Haruno,0000,0000,0000,,Does that mean that we \Ncan talk with you, then?
-Dialogue: 0,0:06:48.52,0:06:50.93,Default,Matataki,0000,0000,0000,,No! Business or not, get out!
-Dialogue: 0,0:06:50.93,0:06:53.70,Default,Haruno,0000,0000,0000,,Okay! First up are these notes from me!
-Dialogue: 0,0:06:53.70,0:06:54.92,Default,Matataki,0000,0000,0000,,Listen to me.
-Dialogue: 0,0:06:54.92,0:06:56.06,Default,Matataki,0000,0000,0000,,I swear...
-Dialogue: 0,0:06:56.06,0:06:58.81,Default,Matataki,0000,0000,0000,,I'll take them, so don't come here again.
-Dialogue: 0,0:06:59.60,0:07:00.31,Default,Matataki,0000,0000,0000,,And?
-Dialogue: 0,0:07:00.88,0:07:03.38,Default,Matataki,0000,0000,0000,,I'll skip over the dopey-looking \Nbun-haired nutjob,
-Dialogue: 0,0:07:01.31,0:07:03.94,Signs,Sign,0000,0000,0000,,{\an6\bord4\fnArial Black\c&H553506&\3c&H50350A&\move(526,28.5,826,28.5,2363,2613)}Bun-haired nutjob
-Dialogue: 1,0:07:01.31,0:07:03.94,Signs,Sign,0000,0000,0000,,{\an6\bord3\fnArial Black\c&H553506&\3c&HB2FFF9&\move(526,28.5,826,28.5,2363,2613)}Bun-haired nutjob
-Dialogue: 0,0:07:04.32,0:07:05.80,Default,Matataki,0000,0000,0000,,but what about you?
-Dialogue: 0,0:07:06.49,0:07:08.82,Default,Matataki,0000,0000,0000,,What'd you barge in here for?
-Dialogue: 0,0:07:11.18,0:07:12.47,DefaultItalics,Umika,0000,0000,0000,,I'm scared.
-Dialogue: 0,0:07:12.47,0:07:16.58,DefaultItalics,Umika,0000,0000,0000,,I'm scared... but it's fine.
-Dialogue: 0,0:07:16.90,0:07:21.21,DefaultItalics,Umika,0000,0000,0000,,Right now, both Akeuchi-san \Nand Takaragi-san are with me.
-Dialogue: 0,0:07:21.60,0:07:27.45,DefaultItalics,Umika,0000,0000,0000,,The old me would never have been able \Nto stand here and talk with Raimon-san.
-Dialogue: 0,0:07:27.45,0:07:29.10,DefaultItalics,Umika,0000,0000,0000,,But I've changed.
-Dialogue: 0,0:07:29.10,0:07:31.66,DefaultItalics,Umika,0000,0000,0000,,I can do it! I can talk!
-Dialogue: 0,0:07:32.22,0:07:34.48,Default,Umika,0000,0000,0000,,U-U-U-Um...
-Dialogue: 0,0:07:34.48,0:07:38.10,Default,Umika,0000,0000,0000,,W-W-We're making a... r-r-rock...
-Dialogue: 0,0:07:38.42,0:07:39.35,Default,Matataki,0000,0000,0000,,Rock?
-Dialogue: 0,0:07:39.35,0:07:43.10,Default,Umika,0000,0000,0000,,A r-r-r-rocket...
-Dialogue: 0,0:07:43.10,0:07:45.36,Default,Matataki,0000,0000,0000,,What? You need to speak up.
-Dialogue: 0,0:07:47.19,0:07:49.69,DefaultItalics,Umika,0000,0000,0000,,I know I can... do it...
-Dialogue: 0,0:07:51.64,0:07:54.87,Default,Yu,0000,0000,0000,,We wanna make a rocket to take us to space!
-Dialogue: 0,0:07:55.20,0:07:57.54,Default,Yu,0000,0000,0000,,You're good with machines, right?
-Dialogue: 0,0:07:57.54,0:08:01.12,Default,Yu,0000,0000,0000,,That's why we wanted you to help us out!
-Dialogue: 0,0:08:01.72,0:08:03.10,Default,Umika,0000,0000,0000,,Akeuchi-san...
-Dialogue: 0,0:08:06.17,0:08:09.51,Default,Matataki,0000,0000,0000,,I was talking to the one with the messy hair.
-Dialogue: 0,0:08:10.09,0:08:13.01,Default,Matataki,0000,0000,0000,,Why do you want to go to space?
-Dialogue: 0,0:08:15.01,0:08:16.96,Default,Haruno,0000,0000,0000,,Matataki-chan, hold on...
-Dialogue: 0,0:08:16.96,0:08:19.52,Default,Matataki,0000,0000,0000,,You can speak on your own behalf, can't you?
-Dialogue: 0,0:08:23.12,0:08:25.48,Default,Matataki,0000,0000,0000,,Clamming up like always, huh?
-Dialogue: 0,0:08:28.40,0:08:31.98,Default,Matataki,0000,0000,0000,,I make it a point to only spend my time \Non things that I care about.
-Dialogue: 0,0:08:31.98,0:08:36.62,Default,Matataki,0000,0000,0000,,And I don't care at all about you, \Nor your dumb rocket.
-Dialogue: 0,0:08:37.41,0:08:40.43,Default,Matataki,0000,0000,0000,,If you were hoping for someone \Nto help you and be pals,
-Dialogue: 0,0:08:40.43,0:08:42.12,Default,Matataki,0000,0000,0000,,go look somewhere else.
-Dialogue: 0,0:08:45.43,0:08:47.52,Default,Haruno,0000,0000,0000,,I'm sorry, Umika-chan.
-Dialogue: 0,0:08:47.52,0:08:50.38,Default,Haruno,0000,0000,0000,,It looks like she's in a bad mood today.
-Dialogue: 0,0:08:52.58,0:08:55.13,DefaultItalics,Umika,0000,0000,0000,,No... You're wrong.
-Dialogue: 0,0:08:55.34,0:08:59.14,DefaultItalics,Umika,0000,0000,0000,,Raimon-san was right about \Neverything she said.
-Dialogue: 0,0:08:59.84,0:09:02.42,DefaultItalics,Umika,0000,0000,0000,,I had the wrong idea all along.
-Dialogue: 0,0:09:02.93,0:09:05.60,DefaultItalics,Umika,0000,0000,0000,,Just because Akeuchi-san and \NTakaragi-san were with me,
-Dialogue: 0,0:09:05.60,0:09:08.10,DefaultItalics,Umika,0000,0000,0000,,I had convinced myself that \NI'd gotten a little better...
-Dialogue: 0,0:09:10.79,0:09:14.06,Default,Yu,0000,0000,0000,,Your mind is easier to read \Nthan anyone else I've met.
-Dialogue: 0,0:09:14.06,0:09:14.78,Default,Matataki,0000,0000,0000,,What?!
-Dialogue: 0,0:09:14.78,0:09:16.83,Default,Matataki,0000,0000,0000,,You were still here, you bun-haired nutjob?!
-Dialogue: 0,0:09:16.83,0:09:18.16,Default,Matataki,0000,0000,0000,,Leave me alone already!
-Dialogue: 0,0:09:20.15,0:09:22.16,Default,Yu,0000,0000,0000,,You don't have to tell {\i1}me{\i0} twice to leave!
-Dialogue: 0,0:09:24.36,0:09:26.13,Default,Yu,0000,0000,0000,,But I'll be back.
-Dialogue: 0,0:09:27.70,0:09:29.94,Default,Yu,0000,0000,0000,,See you later, Matataki.
-Dialogue: 0,0:09:37.45,0:09:38.98,Default,Honami,0000,0000,0000,,Welcome back, Onee-chan.
-Dialogue: 0,0:09:38.98,0:09:40.84,Default,Honami,0000,0000,0000,,We're having pasta with \Nmeat sauce for dinner.
-Dialogue: 0,0:09:41.70,0:09:42.47,Default,Umika,0000,0000,0000,,Okay.
-Dialogue: 1,0:09:51.44,0:09:53.94,Signs,Sign,0000,0000,0000,,{\fs18\fnComic Sans MS\c&H542419&\bord2\3c&HAB6C54&}Water Bottle Rocket Flight Logs
-Dialogue: 1,0:09:51.44,0:09:53.94,Signs,Sign,0000,0000,0000,,{\fs12\fnComic Sans MS\an7\c&H542419&\bord2\3c&HAB6C54&\pos(32.5,28)}Number 1\NFlight distance: Unknown\NWater volume: Unknown\NAir: About 30 pumps?\NLaunch angle: Unknown\NWeather: Clear\NWind: Slight\N\NNumber 2\NFlight distance: 61 m\NWater volume: 400 cc\NAir: 30 pumps\NLaunch angle: 50 deg\NWeather: Clear\NWind: None\N\NNumber 3\NFlight distance: 24 m\NWater volume: 700 cc\NAir: 40 pumps\NLaunch angle: 80 deg\NWeather: Cloudy\NWind: Slightly strong
-Dialogue: 1,0:09:51.44,0:09:53.94,Signs,Sign,0000,0000,0000,,{\an7\fs12\fnComic Sans MS\c&H542419&\bord2\3c&HAB6C54&\pos(507,28)}Number 4\NFlight distance: 76 m\NWater volume: 700 cc\NAir: 50 pumps\NLaunch angle: 70 deg\NWeather: Clear\NWind: None\N\NNumber 5\NFlight distance: 82 m\NWater volume: 400 cc\NAir: 40 pumps\NLaunch angle: 65 deg\NWeather: Clear\NWind: Slight
-Dialogue: 0,0:09:53.94,0:09:56.53,Signs,Sign,0000,0000,0000,,{\fad(1,352)\fs18\fnComic Sans MS\c&H130604&\bord2\3c&H41312B&\pos(386.5,106)}Rocket Notebook
-Dialogue: 0,0:10:00.81,0:10:02.20,Flashback,Matataki,0000,0000,0000,,Matataki Raimon.
-Dialogue: 0,0:10:02.49,0:10:04.34,Flashback,Matataki,0000,0000,0000,,My hobby is building robots.
-Dialogue: 0,0:10:04.34,0:10:07.43,Flashback,Matataki,0000,0000,0000,,Right now, I'm studying to \Nbuild a large-scale robot.
-Dialogue: 0,0:10:07.43,0:10:09.46,Flashback,Matataki,0000,0000,0000,,That's really the only thing I care about.
-Dialogue: 0,0:10:12.29,0:10:14.40,Narration,Umika,0000,0000,0000,,In the spring of my second \Nyear of middle school,
-Dialogue: 0,0:10:14.40,0:10:18.34,Narration,Umika,0000,0000,0000,,I ended up in the same class as \NRaimon-san for the first time.
-Dialogue: 0,0:10:18.89,0:10:20.72,Flashback,Classmate A,0000,0000,0000,,She sure is... unique.
-Dialogue: 0,0:10:21.00,0:10:22.67,Flashback,Classmate A,0000,0000,0000,,Just like the rumors said.
-Dialogue: 0,0:10:22.67,0:10:25.35,Flashback,Classmate B,0000,0000,0000,,What's with the weird goggles she's wearing?
-Dialogue: 0,0:10:27.60,0:10:29.08,Flashback,Classmate,0000,0000,0000,,Did she just give us a dirty look?
-Dialogue: 0,0:10:29.08,0:10:30.40,Flashback,Classmate B,0000,0000,0000,,So scary!
-Dialogue: 0,0:10:30.40,0:10:33.11,FlashbackItalics,Umika,0000,0000,0000,,She may be a little scary...
-Dialogue: 0,0:10:33.53,0:10:37.85,Narration,Umika,0000,0000,0000,,With her indifference to those around her, \Nand her lone-wolf personality,
-Dialogue: 0,0:10:37.85,0:10:40.22,Narration,Umika,0000,0000,0000,,she was the complete opposite of me.
-Dialogue: 0,0:10:40.98,0:10:42.86,FlashbackItalics,Umika,0000,0000,0000,,Sh-She's so cool!
-Dialogue: 0,0:10:42.86,0:10:45.98,FlashbackItalics,Umika,0000,0000,0000,,How can she introduce \Nherself so confidently?!
-Dialogue: 0,0:10:47.78,0:10:49.72,FlashbackItalics,Umika,0000,0000,0000,,Raimon-san, was it?
-Dialogue: 0,0:10:49.72,0:10:54.59,FlashbackItalics,Umika,0000,0000,0000,,Would she be friends with me \Nif I approached her?
-Dialogue: 0,0:10:54.59,0:10:55.73,Flashback,Matataki,0000,0000,0000,,Shut your trap!
-Dialogue: 0,0:10:55.73,0:10:57.01,Flashback,Matataki,0000,0000,0000,,Don't talk to me, shrimp!
-Dialogue: 0,0:10:58.53,0:11:01.26,FlashbackItalics,Umika,0000,0000,0000,,I-I should imagine something more positive.
-Dialogue: 0,0:11:01.26,0:11:02.50,FlashbackItalics,Umika,0000,0000,0000,,That's right.
-Dialogue: 0,0:11:02.50,0:11:07.02,FlashbackItalics,Umika,0000,0000,0000,,I'm sure my first conversation with \NRaimon-san would go like this:
-Dialogue: 0,0:11:09.20,0:11:12.52,FlashbackItalics,Umika,0000,0000,0000,,I would approach her casually, like so...
-Dialogue: 0,0:11:14.18,0:11:15.02,FlashbackItalics,Umika,0000,0000,0000,,Yeah.
-Dialogue: 0,0:11:15.02,0:11:20.06,FlashbackItalics,Umika,0000,0000,0000,,Next time, if I can work up \Nthe courage, I should do it.
-Dialogue: 0,0:11:20.06,0:11:22.80,FlashbackItalics,Umika,0000,0000,0000,,I'll reach Raimon-san with my words!
-Dialogue: 0,0:11:24.08,0:11:25.73,FlashbackItalics,Umika,0000,0000,0000,,And then... Then...
-Dialogue: 0,0:11:25.73,0:11:29.54,FlashbackItalics,Umika,0000,0000,0000,,Maybe we could even be f-friends.
-Dialogue: 0,0:11:29.54,0:11:32.32,FlashbackItalics,Umika,0000,0000,0000,,Lending each other books that we recommend...
-Dialogue: 0,0:11:32.32,0:11:33.57,FlashbackItalics,Umika,0000,0000,0000,,Oh, my gosh!
-Dialogue: 0,0:11:36.74,0:11:38.81,Narration,Umika,0000,0000,0000,,Several weeks after that,
-Dialogue: 0,0:11:41.68,0:11:44.79,Narration,Umika,0000,0000,0000,,the perfect opportunity \Nshowed itself before me.
-Dialogue: 0,0:11:46.25,0:11:49.35,FlashbackItalics,Umika,0000,0000,0000,,All I need is to be brave.
-Dialogue: 0,0:11:50.64,0:11:52.06,Flashback,Umika,0000,0000,0000,,R-Raimon-san...
-Dialogue: 0,0:12:01.69,0:12:04.45,Flashback,Matataki,0000,0000,0000,,Don't call my name if you're \Njust going to clam up afterward.
-Dialogue: 0,0:12:05.43,0:12:10.61,Narration,Umika,0000,0000,0000,,After that, Raimon-san stopped \Nshowing up to class for a while.
-Dialogue: 0,0:12:12.46,0:12:13.96,Default,Umika,0000,0000,0000,,R-Raimon-san!
-Dialogue: 0,0:12:16.88,0:12:18.55,Default,Umika,0000,0000,0000,,A-Akeuchi-san?!
-Dialogue: 0,0:12:18.55,0:12:20.64,Default,Yu,0000,0000,0000,,Bonavuu, Umika.
-Dialogue: 0,0:12:20.64,0:12:22.07,Default,Umika,0000,0000,0000,,Huh? What? Um...
-Dialogue: 0,0:12:22.07,0:12:24.64,Default,Umika,0000,0000,0000,,Th-This is my bedroom, isn't it?
-Dialogue: 0,0:12:24.64,0:12:25.34,Default,Umika,0000,0000,0000,,Huh?
-Dialogue: 0,0:12:25.97,0:12:27.97,Default,Yu,0000,0000,0000,,I-I'm an alien, y'know!
-Dialogue: 0,0:12:27.97,0:12:30.81,Default,Yu,0000,0000,0000,,Teleportation's a piece of cake for me!
-Dialogue: 0,0:12:30.81,0:12:32.85,DefaultItalics,Umika,0000,0000,0000,,On top of my bed?!
-Dialogue: 0,0:12:34.46,0:12:36.43,Default,Yu,0000,0000,0000,,Sorry for scaring you there.
-Dialogue: 0,0:12:36.43,0:12:39.08,Default,Yu,0000,0000,0000,,Truth is, I was worried about you,
-Dialogue: 0,0:12:39.08,0:12:41.36,Default,Yu,0000,0000,0000,,and I couldn't wait until \Nyou came to school again.
-Dialogue: 0,0:12:41.36,0:12:44.36,Signs,Sign,0000,0000,0000,,{\q2\shad3\bord1\fs40\fscx90\fax-0.2\fnTimes New Roman\c&H483CB6&\3c&HFFFFFF&\4c&H000000&}The Matataki Home Visit Bloodbath
-Dialogue: 0,0:12:41.63,0:12:43.90,Default,Yu,0000,0000,0000,,A lot happened yesterday...
-Dialogue: 0,0:12:44.60,0:12:46.99,Default,Yu,0000,0000,0000,,But it looks like you managed \Nto get some sleep! I'm glad!
-Dialogue: 0,0:12:46.99,0:12:48.32,Default,Yu,0000,0000,0000,,How are you feeling? Good?
-Dialogue: 0,0:12:48.32,0:12:50.20,Default,Yu,0000,0000,0000,,Ready to start the day \Nwith a hearty breakfast?!
-Dialogue: 0,0:12:52.83,0:12:56.83,Default,Umika,0000,0000,0000,,I'm... yeah, better, I think.
-Dialogue: 0,0:12:58.47,0:13:05.70,Default,Umika,0000,0000,0000,,Y-Yesterday, I felt like just curling up \Nin bed and staying there forever.
-Dialogue: 0,0:13:06.96,0:13:08.25,Default,Umika,0000,0000,0000,,B-But, you know...
-Dialogue: 0,0:13:08.25,0:13:12.02,Default,Umika,0000,0000,0000,,Seeing your face made me f-feel better.
-Dialogue: 0,0:13:12.28,0:13:14.03,Default,Umika,0000,0000,0000,,It must be alien power.
-Dialogue: 0,0:13:14.03,0:13:15.19,Default,Umika,0000,0000,0000,,Thanks.
-Dialogue: 0,0:13:19.08,0:13:21.02,Default,Umika,0000,0000,0000,,A-Akeuchi-san?
-Dialogue: 0,0:13:21.85,0:13:24.53,Default,Yu,0000,0000,0000,,The light inside you that's gone out...
-Dialogue: 0,0:13:24.53,0:13:28.53,Default,Yu,0000,0000,0000,,You're the only one who can light it again.
-Dialogue: 0,0:13:29.53,0:13:30.53,Default,Umika,0000,0000,0000,,What?
-Dialogue: 0,0:13:31.40,0:13:36.29,Default,Yu,0000,0000,0000,,I don't think that you and Matataki \Nare as far apart as you think.
-Dialogue: 0,0:13:36.73,0:13:41.58,Default,Yu,0000,0000,0000,,It just feels a lot farther because \Nyour words aren't connecting.
-Dialogue: 0,0:13:42.23,0:13:46.30,Default,Yu,0000,0000,0000,,When it comes to both telepathy and words, \Nthe important thing is the same.
-Dialogue: 0,0:13:46.30,0:13:50.30,Default,Yu,0000,0000,0000,,You need to make sure your feelings get \Nthrough loud and clear to the other person.
-Dialogue: 0,0:13:50.88,0:13:53.17,Default,Yu,0000,0000,0000,,Without a light, you're left in the dark.
-Dialogue: 0,0:13:53.17,0:13:55.10,Default,Yu,0000,0000,0000,,You can't tell how far apart you two are.
-Dialogue: 0,0:13:55.54,0:13:56.81,Default,Yu,0000,0000,0000,,But...
-Dialogue: 0,0:13:57.16,0:13:59.52,Default,Yu,0000,0000,0000,,If your words can become that light,
-Dialogue: 0,0:13:59.52,0:14:02.07,Default,Yu,0000,0000,0000,,Matataki's voice, her self...
-Dialogue: 0,0:14:03.89,0:14:05.99,Default,Yu,0000,0000,0000,,You'll be able to feel those things up close.
-Dialogue: 0,0:14:07.31,0:14:10.17,Default,Umika,0000,0000,0000,,My... words?
-Dialogue: 0,0:14:10.17,0:14:11.54,Default,Yu,0000,0000,0000,,That's right.
-Dialogue: 0,0:14:11.54,0:14:12.76,Default,Yu,0000,0000,0000,,I mean...
-Dialogue: 0,0:14:14.51,0:14:17.57,Default,Yu,0000,0000,0000,,The two of us are connected \Nby clear feelings,
-Dialogue: 0,0:14:17.57,0:14:19.45,Default,Yu,0000,0000,0000,,and look how close we are.
-Dialogue: 0,0:14:21.43,0:14:22.14,Default,Yu,0000,0000,0000,,See?
-Dialogue: 0,0:14:22.14,0:14:24.92,Default,Yu,0000,0000,0000,,My voice is reaching you, isn't it?
-Dialogue: 0,0:14:26.09,0:14:27.94,Default,Umika,0000,0000,0000,,A-Akeuchi-san...
-Dialogue: 0,0:14:27.94,0:14:31.70,Default,Umika,0000,0000,0000,,You see, I remember now.
-Dialogue: 0,0:14:31.70,0:14:35.10,Default,Umika,0000,0000,0000,,I remember the words I wanted \Nto reach Raimon-san with.
-Dialogue: 0,0:14:36.15,0:14:38.95,Default,Umika,0000,0000,0000,,W-Well, I'm sure you've already \Nread my mind for them!
-Dialogue: 0,0:14:38.95,0:14:39.71,Default,Yu,0000,0000,0000,,Yeah!
-Dialogue: 0,0:14:39.71,0:14:41.69,Default,Umika,0000,0000,0000,,I-I want to tell her!
-Dialogue: 0,0:14:41.69,0:14:43.23,Default,Umika,0000,0000,0000,,Properly, up close!
-Dialogue: 0,0:14:43.23,0:14:43.98,Default,Yu,0000,0000,0000,,Yeah!
-Dialogue: 0,0:14:43.98,0:14:45.98,Default,Yu,0000,0000,0000,,I'll be there for you, Umika!
-Dialogue: 0,0:14:46.24,0:14:50.74,Default,Umika,0000,0000,0000,,I-If it doesn't work, I-I might \Ncause you even more trouble.
-Dialogue: 0,0:14:51.37,0:14:55.07,Default,Yu,0000,0000,0000,,My forehead is always there \Nfor you to lean on!
-Dialogue: 0,0:14:56.49,0:14:59.00,Signs,Sign,0000,0000,0000,,{\fad(776,1)\fnVerdana\c&H82A6E6&\frz4.74\fax-0.06\fsp2.4\pos(178.5,83.5)\3c&HFFFFFF&\bord1\blur0.5}S{\c&HF57A71&}ta{\c&HD5FC8B&}r{\c&H9958ED&}du{\c&HD6FF80&}st {\c&H82A6E6&}Te{\c&HD6FF80&}le{\c&H9958ED&}pa{\c&HF57A71&}th
-Dialogue: 0,0:14:59.89,0:15:00.37,Default,Haruno,0000,0000,0000,,Oh?
-Dialogue: 0,0:15:00.64,0:15:01.86,Default,Haruno,0000,0000,0000,,Where's Umika-chan?
-Dialogue: 0,0:15:01.86,0:15:04.50,Default,Yu,0000,0000,0000,,She left for Matataki's place after homeroom!
-Dialogue: 0,0:15:04.50,0:15:05.99,Default,Haruno,0000,0000,0000,,Again?!
-Dialogue: 0,0:15:05.99,0:15:08.23,DefaultItalics,Haruno,0000,0000,0000,,She's been going there every day lately.
-Dialogue: 0,0:15:08.23,0:15:11.01,DefaultItalics,Haruno,0000,0000,0000,,I hope she's not pushing herself too hard.
-Dialogue: 0,0:15:11.01,0:15:13.67,Default,Matataki,0000,0000,0000,,When will you get sick of this already?
-Dialogue: 0,0:15:13.67,0:15:15.39,Default,Matataki,0000,0000,0000,,I'm busy here, you know!
-Dialogue: 0,0:15:16.00,0:15:19.43,Default,Umika,0000,0000,0000,,I-I have something t-to talk to you about...
-Dialogue: 0,0:15:19.43,0:15:21.48,Default,Matataki,0000,0000,0000,,I already told you, no!
-Dialogue: 0,0:15:21.82,0:15:26.73,Default,Matataki,0000,0000,0000,,I bet you're just going to make me \Nbuild your stupid rocket all by myself!
-Dialogue: 0,0:15:27.06,0:15:29.49,Default,Matataki,0000,0000,0000,,Is your plot to cozy up to the machine \Ngeek who never attends class,
-Dialogue: 0,0:15:29.49,0:15:31.61,Default,Matataki,0000,0000,0000,,just so you can laugh at her?
-Dialogue: 0,0:15:31.61,0:15:33.99,Default,Matataki,0000,0000,0000,,Don't you have anything better to do?
-Dialogue: 0,0:15:33.99,0:15:36.24,Default,Umika,0000,0000,0000,,Y-You're wrong.
-Dialogue: 0,0:15:36.24,0:15:37.33,Default,Matataki,0000,0000,0000,,What?!
-Dialogue: 0,0:15:37.68,0:15:42.08,Default,Umika,0000,0000,0000,,O-Our rocket... isn't stupid!
-Dialogue: 0,0:15:43.33,0:15:45.37,Default,Matataki,0000,0000,0000,,That part doesn't matter!
-Dialogue: 0,0:15:45.37,0:15:46.71,Default,Umika,0000,0000,0000,,It does!
-Dialogue: 0,0:15:47.39,0:15:49.27,Default,Matataki,0000,0000,0000,,I know you can't be serious, but...
-Dialogue: 0,0:15:49.27,0:15:53.19,Default,Matataki,0000,0000,0000,,are you honestly trying \Nto build a manned rocket?
-Dialogue: 0,0:15:53.19,0:15:54.57,Default,Umika,0000,0000,0000,,Y-Yes!
-Dialogue: 0,0:15:54.57,0:15:56.10,Default,Matataki,0000,0000,0000,,You've gotta be kidding.
-Dialogue: 0,0:15:56.10,0:16:00.29,Default,Matataki,0000,0000,0000,,Have you made any prototypes or anything yet?
-Dialogue: 0,0:16:00.29,0:16:00.86,Default,Umika,0000,0000,0000,,We...
-Dialogue: 0,0:16:01.81,0:16:04.87,Default,Umika,0000,0000,0000,,We've made a few plastic bottle rockets.
-Dialogue: 0,0:16:06.11,0:16:08.19,Default,Matataki,0000,0000,0000,,Do you know how hard \Naerospace engineering is?!
-Dialogue: 0,0:16:08.19,0:16:12.49,Default,Umika,0000,0000,0000,,W-We're not there yet, but I'm going \Nto learn from scratch, a-and build it!
-Dialogue: 0,0:16:12.49,0:16:14.24,Default,Matataki,0000,0000,0000,,Are you planning to spend hundreds of years?!
-Dialogue: 0,0:16:15.13,0:16:18.62,Default,Matataki,0000,0000,0000,,Or well, a manned rocket \Nis nothing but a pipe dream.
-Dialogue: 0,0:16:18.62,0:16:20.42,Default,Matataki,0000,0000,0000,,There's no way you can build one.
-Dialogue: 0,0:16:20.42,0:16:24.37,Default,Matataki,0000,0000,0000,,You're just a runt who's probably \Nnever even touched a firework rocket.
-Dialogue: 0,0:16:26.39,0:16:28.40,Flashback,Honami,0000,0000,0000,,We'll be fine, Onee-chan.
-Dialogue: 0,0:16:28.40,0:16:30.96,Default,Umika,0000,0000,0000,,I-I can't deny that...
-Dialogue: 0,0:16:31.60,0:16:32.72,Default,Matataki,0000,0000,0000,,Told you.
-Dialogue: 0,0:16:33.58,0:16:35.22,Default,Umika,0000,0000,0000,,Y-You say there's no way,
-Dialogue: 0,0:16:35.22,0:16:37.10,Default,Umika,0000,0000,0000,,but we swore we'd build a rocket!
-Dialogue: 0,0:16:37.10,0:16:42.48,Default,Umika,0000,0000,0000,,W-We made a promise to go \Nto outer space together!
-Dialogue: 0,0:16:42.48,0:16:45.23,Default,Umika,0000,0000,0000,,So I won't give up until the end!
-Dialogue: 0,0:16:45.75,0:16:49.77,Default,Umika,0000,0000,0000,,I-If my own shortcomings \Nare why it's impossible...
-Dialogue: 0,0:16:49.77,0:16:54.49,Default,Umika,0000,0000,0000,,N-N-No matter what it takes, \NI'll figure out a way!
-Dialogue: 0,0:16:54.77,0:16:58.85,Default,Umika,0000,0000,0000,,I know that right now, I can't do anything!
-Dialogue: 0,0:16:58.85,0:17:01.25,Default,Umika,0000,0000,0000,,But... that's why...
-Dialogue: 0,0:17:01.25,0:17:05.75,Default,Umika,0000,0000,0000,,I want to talk with you, Raimon-san!
-Dialogue: 0,0:17:06.31,0:17:08.02,DefaultItalics,Matataki,0000,0000,0000,,Bonds of friendship...
-Dialogue: 0,0:17:08.02,0:17:09.88,DefaultItalics,Matataki,0000,0000,0000,,Dreams that amount to nothing...
-Dialogue: 0,0:17:09.88,0:17:10.88,Default,Matataki,0000,0000,0000,,Ha!
-Dialogue: 0,0:17:10.88,0:17:12.98,Default,Matataki,0000,0000,0000,,What are you, the main \Ncharacter in a robot anime?
-Dialogue: 0,0:17:12.98,0:17:14.13,DefaultItalics,Umika,0000,0000,0000,,Robot...
-Dialogue: 0,0:17:14.77,0:17:17.89,Flashback,Matataki,0000,0000,0000,,Right now, I'm studying \Nto build a large-scale robot.
-Dialogue: 0,0:17:18.43,0:17:22.39,Default,Umika,0000,0000,0000,,U-Um, c-can I ask you a question?
-Dialogue: 0,0:17:23.48,0:17:28.40,Default,Umika,0000,0000,0000,,R-Raimon-san, why do you build robots?
-Dialogue: 0,0:17:28.81,0:17:32.32,Default,Matataki,0000,0000,0000,,I only spend my time on things I care about.
-Dialogue: 0,0:17:32.32,0:17:33.65,Default,Matataki,0000,0000,0000,,Nothing more to it.
-Dialogue: 0,0:17:33.96,0:17:35.71,Default,Umika,0000,0000,0000,,O-Oh...
-Dialogue: 0,0:17:36.24,0:17:37.98,Default,Umika,0000,0000,0000,,I... I see.
-Dialogue: 0,0:17:42.14,0:17:44.54,Default,Umika,0000,0000,0000,,M-My reason...
-Dialogue: 0,0:17:45.05,0:17:48.92,Default,Umika,0000,0000,0000,,The reason that I-I want to go to space...
-Dialogue: 0,0:17:49.85,0:17:52.79,Default,Umika,0000,0000,0000,,It's because I want to find \Na place where I belong.
-Dialogue: 0,0:17:53.28,0:17:57.07,Default,Umika,0000,0000,0000,,Wh-Where I can be free \Nto tell everyone how I feel.
-Dialogue: 0,0:17:57.07,0:18:01.09,Default,Umika,0000,0000,0000,,I want to find that place, that me.
-Dialogue: 0,0:18:01.09,0:18:04.34,Default,Umika,0000,0000,0000,,I-I couldn't find it on Earth,
-Dialogue: 0,0:18:04.89,0:18:09.19,Default,Umika,0000,0000,0000,,so I want to look for it out in space!
-Dialogue: 0,0:18:09.53,0:18:15.03,Default,Umika,0000,0000,0000,,That's why I-I want to build \Na rocket with everyone!
-Dialogue: 0,0:18:17.19,0:18:17.70,Default,Matataki,0000,0000,0000,,Nutjob.
-Dialogue: 0,0:18:17.70,0:18:17.86,Signs,Sign,0000,0000,0000,,{\fs40\fnArial Black\c&H070A07&\frz4.856\move(313.5,154,520.5,155.5,21,146)\t(21,105,\blur2)}Nutjob
-Dialogue: 0,0:18:19.62,0:18:22.33,Default,Matataki,0000,0000,0000,,You couldn't go soul-searching \Non a way smaller scale?
-Dialogue: 0,0:18:22.88,0:18:25.45,Default,Matataki,0000,0000,0000,,I feel embarrassed just listening to you.
-Dialogue: 0,0:18:25.85,0:18:27.33,Default,Matataki,0000,0000,0000,,But, well...
-Dialogue: 0,0:18:27.79,0:18:30.08,Default,Matataki,0000,0000,0000,,Nothing wrong with outer space, I guess.
-Dialogue: 0,0:18:31.02,0:18:35.85,Default,Matataki,0000,0000,0000,,If what you just said is how \Nyou really feel, that is.
-Dialogue: 0,0:18:36.88,0:18:39.98,Default,Matataki,0000,0000,0000,,Don't get me wrong. \NI won't lift a finger to help you.
-Dialogue: 0,0:18:39.98,0:18:41.10,Default,Matataki,0000,0000,0000,,It's up to you to—
-Dialogue: 0,0:18:41.51,0:18:44.01,Default,Matataki,0000,0000,0000,,Wh-What's all the ruckus, all of a sudden?!
-Dialogue: 0,0:18:44.01,0:18:46.39,Default,Umika,0000,0000,0000,,Raimon-san, p-please!
-Dialogue: 0,0:18:46.39,0:18:48.39,Default,Umika,0000,0000,0000,,Open this shutter door!
-Dialogue: 0,0:18:48.80,0:18:52.02,Default,Umika,0000,0000,0000,,I-I have something to tell you, face-to-face!
-Dialogue: 0,0:18:52.02,0:18:54.15,Default,Matataki,0000,0000,0000,,Get it through your skull! I'm not helping—
-Dialogue: 0,0:18:54.15,0:18:55.65,Default,Umika,0000,0000,0000,,P-Please!
-Dialogue: 0,0:18:56.90,0:18:57.66,Default,Matataki,0000,0000,0000,,I refuse.
-Dialogue: 0,0:19:01.70,0:19:02.66,Signs,Sign,0000,0000,0000,,{\fad(274,228)\fnArial Black\bord2\c&HDFE4E3&\3c&H262926&\frz34.98\fax-0.3\move(165,42,173,33.5,23,232)}THUMP
-Dialogue: 0,0:19:02.45,0:19:03.45,Signs,Sign,0000,0000,0000,,{\fad(1,350)\fnArial Black\c&H161D17&\fax-0.1\frz27.04\pos(86,100)\clip(39,94,59,160.5)\t(24,233,\clip(39,94,129,160.5))}ZIIIIP...
-Dialogue: 0,0:19:03.16,0:19:04.20,Signs,Sign,0000,0000,0000,,{\fad(190,308)\fnArial Black\bord1.5\c&HDFE4E3&\3c&H262926&\fax-0.1\pos(245,268)\frz23.66}RUMMAGE
-Dialogue: 0,0:19:04.03,0:19:05.58,Signs,Sign,0000,0000,0000,,{\fad(196,350)\fnArial Black\c&H161D17&\fax-0.1\frz27.04\move(37,80.5,54,66,29,238)}SKRITCH
-Dialogue: 0,0:19:04.33,0:19:05.58,Signs,Sign,0000,0000,0000,,{\fad(196,350)\fnArial Black\c&H161D17&\fax-0.1\frz27.04\move(44,97.5,61,83,29,238)}SKRITCH
-Dialogue: 0,0:19:04.62,0:19:05.58,Signs,Sign,0000,0000,0000,,{\fad(196,350)\fnArial Black\c&H161D17&\fax-0.1\frz27.04\move(51,115.5,68,101,29,238)}SKRITCH
-Dialogue: 0,0:19:05.41,0:19:06.04,Signs,Sign,0000,0000,0000,,{\fs40\fad(234,1)\fnArial Black\c&H161D17&\fax-0.3\frz11.9\move(177.5,154,178.5,122.5,25,192)}RIP
-Dialogue: 0,0:19:09.41,0:19:12.67,Signs,Sign,0000,0000,0000,,{\fad(1239,1)\alpha&H33&\an7\bord0\blur0.2\p1\c&HF8FBFA&\fscx175\fscy162\pos(443.5,20.5)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:19:09.41,0:19:12.67,Signs,Sign,0000,0000,0000,,{\fad(1239,1)\blur0.2\fs16\fnComic Sans MS\c&H34313C&\pos(532,25.5)}Letter of Challenge\N\N{\fs14}I, Umika Konohoshi, challenge\NMatataki Raimon-san to a duel.\N\NWater Bottle Rocket Contest\N{\u1}The one that flies further wins!!{\u0}\N\NDate/Time: May 20th 2:00 p.m.\NLocation: I'll come and get you\Non the day!\NBring: A water bottle rocket
-Dialogue: 0,0:19:10.16,0:19:11.79,Default,Matataki,0000,0000,0000,,What?!
-Dialogue: 0,0:19:12.67,0:19:14.98,Default,Umika,0000,0000,0000,,I-I, Umika Konohoshi...
-Dialogue: 0,0:19:14.98,0:19:17.55,Default,Umika,0000,0000,0000,,ch-ch-ch-ch-challenge you to a duel!
-Dialogue: 0,0:19:18.13,0:19:21.45,Default,Umika,0000,0000,0000,,If I b-beat you in a water \Nbottle rocket contest...
-Dialogue: 0,0:19:21.45,0:19:24.33,Default,Umika,0000,0000,0000,,p-please listen to what \NI have to say, face to face!
-Dialogue: 0,0:19:24.33,0:19:27.56,Default,Umika,0000,0000,0000,,If I lose, I won't bother you anymore!
-Dialogue: 0,0:19:27.56,0:19:30.02,Default,Umika,0000,0000,0000,,A-Also, if you refuse...
-Dialogue: 0,0:19:30.02,0:19:31.44,Default,Umika,0000,0000,0000,,I-If you refuse...
-Dialogue: 0,0:19:31.44,0:19:33.82,Default,Umika,0000,0000,0000,,I-It counts as my win!
-Dialogue: 0,0:19:33.82,0:19:36.07,Default,Matataki,0000,0000,0000,,What a messed-up, one-sided rule!
-Dialogue: 0,0:19:37.23,0:19:38.32,Default,Umika,0000,0000,0000,,Raimon-san!
-Dialogue: 0,0:19:38.32,0:19:40.96,Default,Umika,0000,0000,0000,,N-No matter how many hundreds of years—
-Dialogue: 0,0:19:40.96,0:19:43.48,Default,Umika,0000,0000,0000,,how many hundreds of light-years \Ni-it may take...
-Dialogue: 0,0:19:43.48,0:19:46.08,Default,Umika,0000,0000,0000,,I'll make sure I reach outer space!
-Dialogue: 0,0:19:46.08,0:19:47.70,Default,Umika,0000,0000,0000,,So I'll never lose to you!
-Dialogue: 0,0:19:48.22,0:19:48.91,Default,Matataki,0000,0000,0000,,Hey!
-Dialogue: 0,0:19:48.91,0:19:50.08,Default,Matataki,0000,0000,0000,,I never agreed to any of this!
-Dialogue: 0,0:19:55.65,0:19:58.09,Default,Matataki,0000,0000,0000,,Find a place where you belong, huh?
-Dialogue: 0,0:19:58.31,0:20:01.43,Default,Matataki,0000,0000,0000,,Wait, light-years are a measure of distance.
-Dialogue: 0,0:20:01.43,0:20:03.95,Default,Matataki,0000,0000,0000,,She really is an idiot.
-Dialogue: 0,0:20:07.48,0:20:10.35,DefaultItalics,Umika,0000,0000,0000,,Akeuchi-san. Takaragi-san.
-Dialogue: 0,0:20:10.88,0:20:12.96,DefaultItalics,Umika,0000,0000,0000,,I... I...
-Dialogue: 0,0:20:13.35,0:20:15.36,DefaultItalics,Umika,0000,0000,0000,,I've done it now!
-Dialogue: 0,0:20:15.86,0:20:18.84,DefaultItalics,Umika,0000,0000,0000,,I've really goofed up!
-Dialogue: 0,0:20:20.64,0:20:22.54,Default,Umika,0000,0000,0000,,I-I'm sorry...
-Dialogue: 0,0:20:23.24,0:20:26.08,Default,Umika,0000,0000,0000,,Wh-Wh-What do I do?!
-Dialogue: 0,0:20:26.08,0:20:27.37,Default,Umika,0000,0000,0000,,Wh-What...
-Dialogue: 0,0:20:36.80,0:20:39.88,Default,Umika,0000,0000,0000,,Akeuchi-san's lighthouse...
-Dialogue: 0,0:20:46.58,0:20:48.25,Default,Haruno,0000,0000,0000,,Ah! Umika-chan!
-Dialogue: 0,0:20:48.25,0:20:50.46,Default,Yu,0000,0000,0000,,Bonavuu, Umika!
-Dialogue: 0,0:20:50.46,0:20:53.43,Default,Haruno,0000,0000,0000,,Just like you said, it really lit up!
-Dialogue: 0,0:20:53.43,0:20:55.40,Default,Haruno,0000,0000,0000,,And we found Umika-chan!
-Dialogue: 0,0:20:57.71,0:21:01.03,Default,Umika,0000,0000,0000,,A-Akeuchi-san? Takaragi-san?
-Dialogue: 0,0:21:01.03,0:21:02.65,Default,Yu,0000,0000,0000,,C'mon, Umika!
-Dialogue: 0,0:21:02.65,0:21:05.15,Default,Yu,0000,0000,0000,,My forehead is always there \Nfor you to lean on!
-Dialogue: 0,0:21:10.41,0:21:13.20,Default,Yu,0000,0000,0000,,Good job! You did your best!
-Dialogue: 0,0:21:14.33,0:21:15.16,Default,Haruno,0000,0000,0000,,Oh, dear.
-Dialogue: 0,0:21:17.67,0:21:19.88,Default,Haruno,0000,0000,0000,,You gave her a letter of challenge?
-Dialogue: 0,0:21:19.88,0:21:21.55,Default,Yu,0000,0000,0000,,That takes guts, Umika!
-Dialogue: 0,0:21:21.55,0:21:26.39,Default,Umika,0000,0000,0000,,S-Sorry. I r-really know I shouldn't have.
-Dialogue: 0,0:21:26.39,0:21:30.93,Default,Umika,0000,0000,0000,,A-Anyway, I'll do my best to build a rocket!
-Dialogue: 0,0:21:30.93,0:21:34.10,Default,Umika,0000,0000,0000,,Y-You two don't have to \Ngo to any trouble for me!
-Dialogue: 0,0:21:36.81,0:21:37.97,Default,Yu,0000,0000,0000,,It'll be okay!
-Dialogue: 0,0:21:37.97,0:21:40.32,Default,Yu,0000,0000,0000,,We've got this in the bag \Nwith the three of us!
-Dialogue: 0,0:21:40.63,0:21:44.62,DefaultTop,Haruno,0000,0000,0000,,She's no match for us when it comes \Nto building soda bottle rockets!
-Dialogue: 0,0:21:44.62,0:21:47.55,Default,Umika,0000,0000,0000,,You're going to help me make it?
-Dialogue: 0,0:21:47.55,0:21:49.57,Default,Yu,0000,0000,0000,,You should know better by now!
-Dialogue: 0,0:21:49.57,0:21:52.61,Default,Yu,0000,0000,0000,,The path to our dream is \Nfor us to walk together!
-Dialogue: 0,0:21:52.61,0:21:54.83,Default,Yu,0000,0000,0000,,No head starts allowed!
-Dialogue: 0,0:21:55.54,0:21:58.54,Default,Umika,0000,0000,0000,,Th-Thank you.
-Dialogue: 0,0:21:59.78,0:22:03.75,DefaultTop,Umika,0000,0000,0000,,Y-You always do so much for me,
-Dialogue: 0,0:22:04.44,0:22:08.90,Default,Umika,0000,0000,0000,,b-but I can't do anything \Nfor either of you.
-Dialogue: 0,0:22:09.59,0:22:10.69,Default,Umika,0000,0000,0000,,I hate it!
-Dialogue: 0,0:22:11.36,0:22:15.34,Default,Umika,0000,0000,0000,,I h-hate not being able \Nto do anything by myself.
-Dialogue: 0,0:22:15.91,0:22:17.60,Default,Umika,0000,0000,0000,,I want to be strong,
-Dialogue: 0,0:22:18.03,0:22:20.98,Default,Umika,0000,0000,0000,,like the two of you.
-Dialogue: 0,0:22:21.63,0:22:23.77,Default,Umika,0000,0000,0000,,I'll give it everything I have!
-Dialogue: 0,0:22:24.46,0:22:27.38,Default,Umika,0000,0000,0000,,I'll try and do better from here on out!
-Dialogue: 0,0:22:28.02,0:22:28.99,Default,Umika,0000,0000,0000,,So...
-Dialogue: 0,0:22:29.65,0:22:32.58,Default,Umika,0000,0000,0000,,Until I can make it all up to you...
-Dialogue: 0,0:22:32.58,0:22:35.50,Default,Umika,0000,0000,0000,,Please... let me be with you.
-Dialogue: 0,0:22:36.53,0:22:40.00,DefaultItalics,Haruno,0000,0000,0000,,You didn't even need to ask.
-Dialogue: 0,0:22:42.49,0:22:43.75,Default,Haruno,0000,0000,0000,,Umika-chan.
-Dialogue: 0,0:22:45.00,0:22:51.01,Default,Haruno,0000,0000,0000,,I can't use telepathy, but I can \Ntell exactly how you feel.
-Dialogue: 0,0:22:54.74,0:22:58.64,Default,Haruno,0000,0000,0000,,So let's make sure those feelings \Nreach Matataki-chan as well.
-Dialogue: 0,0:22:59.05,0:23:00.65,Default,Umika,0000,0000,0000,,Y-Yeah!
-Dialogue: 0,0:23:00.65,0:23:02.12,DefaultTop,Yu,0000,0000,0000,,Okay, Umika!
-Dialogue: 0,0:23:02.12,0:23:04.57,Default,Yu,0000,0000,0000,,Let's make a rocket way better than the rest!
-Dialogue: 0,0:23:04.57,0:23:06.65,Default,Haruno,0000,0000,0000,,Our goal is to surpass 100 meters!
-Dialogue: 0,0:23:09.78,0:23:11.10,Default,Haruno,0000,0000,0000,,Oh, wait!
-Dialogue: 0,0:23:11.10,0:23:12.69,Default,Haruno,0000,0000,0000,,That was close!
-Dialogue: 0,0:23:12.69,0:23:14.03,Default,Haruno,0000,0000,0000,,I almost forgot!
-Dialogue: 0,0:23:14.37,0:23:17.54,DefaultTop,Haruno,0000,0000,0000,,Actually, I have a small present for you.
-Dialogue: 0,0:23:17.91,0:23:19.55,Default,Yu,0000,0000,0000,,Huh? What is it?!
-Dialogue: 0,0:23:19.55,0:23:22.79,Default,Haruno,0000,0000,0000,,I was hoping to give it to you much earlier.
-Dialogue: 0,0:23:30.97,0:23:35.05,Signs_NextEp,Sign,0000,0000,0000,,{\fad(813,1)\pos(320,92)}Episode 4\N\N\N\N\N\N\N\N\NClashing Seaside
-Dialogue: 0,0:23:33.05,0:23:35.05,Default,Umika,0000,0000,0000,,Clashing Seaside.
-Dialogue: 0,0:23:35.05,0:23:40.06,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\pos(320,25)\c&HF6F2EE&\3c&H311104&}When Launching Bottle Rockets:
-Dialogue: 0,0:23:35.05,0:23:40.06,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,192)\fs14}Launch rockets in an open area without any obstacles.
-Dialogue: 0,0:23:35.05,0:23:40.06,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,226)\fs14}Never aim a rocket in the direction of others.
-Dialogue: 0,0:23:35.05,0:23:40.06,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,262)\fs14}Children should be supervised by adults during launches.
-Dialogue: 0,0:23:35.05,0:23:40.06,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,295)\fs14}Always follow the rules and put safety first!
+Dialogue: 0,0:00:01.41,0:00:05.28,Default,Haruno,0000,0000,0000,,Actually, I have a small present for you.
+Dialogue: 0,0:00:05.28,0:00:06.98,Default,Yu,0000,0000,0000,,Huh? What is it?!
+Dialogue: 0,0:00:42.49,0:00:44.95,Default,Haruno,0000,0000,0000,,Make sure you watch your step.
+Dialogue: 0,0:00:47.29,0:00:48.45,Default,Yu,0000,0000,0000,,Let's go!
+Dialogue: 0,0:00:48.45,0:00:49.15,Default,Umika,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:00.40,0:01:02.19,Default,Haruno,0000,0000,0000,,I believe it was here...
+Dialogue: 0,0:01:14.64,0:01:18.47,Default,Haruno,0000,0000,0000,,Welcome to my very special secret base!
+Dialogue: 0,0:01:19.35,0:01:21.53,Default,Yu,0000,0000,0000,,Haruno's secret base...
+Dialogue: 0,0:01:21.53,0:01:22.47,Default,Yu,0000,0000,0000,,Wait!
+Dialogue: 0,0:01:22.67,0:01:26.98,Default,Yu,0000,0000,0000,,Under the lighthouse?!
+Dialogue: 0,0:01:27.19,0:01:29.20,Default,Haruno,0000,0000,0000,,You could say it was {\i1}light{\i0} under your nose!
+Dialogue: 0,0:01:29.20,0:01:30.42,Default,Haruno,0000,0000,0000,,Just kidding.
+Dialogue: 0,0:02:56.21,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(2103,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardus{\alpha&H00&}t{\alpha&HFF&} Telepath
+Dialogue: 0,0:02:56.24,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(2079,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}S{\alpha&H00&}t{\alpha&HFF&}ardust Telepath
+Dialogue: 0,0:02:56.32,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1998,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust T{\alpha&H00&}e{\alpha&HFF&}lepath
+Dialogue: 0,0:02:56.35,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1968,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Te{\alpha&H00&}l{\alpha&HFF&}epath
+Dialogue: 0,0:02:56.42,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1895,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Star{\alpha&H00&}d{\alpha&HFF&}ust Telepath
+Dialogue: 0,0:02:56.42,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1894,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telep{\alpha&H00&}a{\alpha&HFF&}th
+Dialogue: 0,0:02:56.43,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1884,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardu{\alpha&H00&}s{\alpha&HFF&}t Telepath
+Dialogue: 0,0:02:56.73,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1583,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Tele{\alpha&H00&}p{\alpha&HFF&}ath
+Dialogue: 0,0:02:56.92,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1396,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stard{\alpha&H00&}u{\alpha&HFF&}st Telepath
+Dialogue: 0,0:02:56.93,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1389,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}St{\alpha&H00&}a{\alpha&HFF&}rdust Telepath
+Dialogue: 0,0:02:57.14,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1178,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telepa{\alpha&H00&}t{\alpha&HFF&}h
+Dialogue: 0,0:02:57.31,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(1007,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust {\alpha&H00&}T{\alpha&HFF&}elepath
+Dialogue: 0,0:02:57.48,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(836,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&H00&}S{\alpha&HFF&}tardust Telepath
+Dialogue: 0,0:02:57.53,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(782,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Telepat{\alpha&H00&}h
+Dialogue: 0,0:02:57.54,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(780,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Stardust Tel{\alpha&H00&}e{\alpha&HFF&}path
+Dialogue: 0,0:02:58.08,0:03:00.95,Signs,Title,0000,0000,0000,,{\fad(239,0)\fs40\b0\fnGeorgia\3c&HFAD66F&\bord1\3a&H66&\blur0.5\pos(320,26)\c&HFFFFFF&\alpha&HFF&}Sta{\alpha&H00&}r{\alpha&HFF&}dust Telepath
+Dialogue: 0,0:03:01.45,0:03:05.45,Signs_EpTitle,Sign,0000,0000,0000,,{\fad(773,767)\pos(590,19.67)}Episode 4\N\N\NClashing Seaside
+Dialogue: 0,0:03:06.15,0:03:07.95,Default,Umika,0000,0000,0000,,I-I never thought...
+Dialogue: 0,0:03:08.81,0:03:13.28,Default,Umika,0000,0000,0000,,there'd be an u-underground chamber \Nbeneath the lighthouse...
+Dialogue: 0,0:03:13.28,0:03:14.65,Default,Umika,0000,0000,0000,,It's right out of a movie!
+Dialogue: 0,0:03:14.65,0:03:18.71,Default,Haruno,0000,0000,0000,,I hear that this room was originally \Nbuilt as a secret addition.
+Dialogue: 0,0:03:18.71,0:03:21.51,Default,Haruno,0000,0000,0000,,Sorry for making you help \Nout with the cleaning.
+Dialogue: 0,0:03:21.51,0:03:22.77,Default,Yu,0000,0000,0000,,Don't be!
+Dialogue: 0,0:03:22.77,0:03:25.92,Default,Yu,0000,0000,0000,,Secret base! Secret base!
+Dialogue: 0,0:03:29.18,0:03:34.73,Default,Umika,0000,0000,0000,,Um, wh-why do you have a key for down here?
+Dialogue: 0,0:03:36.43,0:03:38.00,Default,Haruno,0000,0000,0000,,How astute of you, Umika-chan.
+Dialogue: 0,0:03:38.00,0:03:39.79,Default,Haruno,0000,0000,0000,,So you had realized it!
+Dialogue: 0,0:03:40.24,0:03:41.34,Default,Umika,0000,0000,0000,,What?
+Dialogue: 0,0:03:41.34,0:03:43.46,Default,Yu,0000,0000,0000,,You go, Umika! So smart!
+Dialogue: 0,0:03:43.46,0:03:44.24,Default,Umika,0000,0000,0000,,What?!
+Dialogue: 0,0:03:45.47,0:03:51.00,Default,Haruno,0000,0000,0000,,The truth is, my grandfather used \Nto be the keeper of this lighthouse.
+Dialogue: 0,0:03:51.75,0:03:54.18,Default,Haruno,0000,0000,0000,,Even after it was abandoned,
+Dialogue: 0,0:03:54.18,0:03:57.42,Default,Haruno,0000,0000,0000,,the two of us made this place our secret base
+Dialogue: 0,0:03:57.42,0:03:59.42,Default,Haruno,0000,0000,0000,,and came here to play often.
+Dialogue: 0,0:04:01.61,0:04:02.51,Default,Haruno,0000,0000,0000,,Well...
+Dialogue: 0,0:04:02.51,0:04:07.64,Default,Haruno,0000,0000,0000,,I'd lost the key, so I hadn't \Ncome to visit in a while.
+Dialogue: 0,0:04:07.64,0:04:11.09,Default,Yu,0000,0000,0000,,And now it's open full-time \Nfor play again! Isn't that great?
+Dialogue: 0,0:04:11.09,0:04:13.64,Default,Haruno,0000,0000,0000,,Yes, you can play to your heart's content,
+Dialogue: 0,0:04:13.64,0:04:14.87,Default,Haruno,0000,0000,0000,,Yu-chan!
+Dialogue: 0,0:04:15.88,0:04:17.35,Default,Haruno,0000,0000,0000,,Here, the key!
+Dialogue: 0,0:04:17.77,0:04:19.23,Default,Yu,0000,0000,0000,,Me?!
+Dialogue: 0,0:04:19.23,0:04:21.84,Default,Haruno,0000,0000,0000,,Ever since I heard you'd taken up \Nresidence in the lighthouse,
+Dialogue: 0,0:04:21.84,0:04:24.73,Default,Haruno,0000,0000,0000,,I've been worried about \Nyour living situation.
+Dialogue: 0,0:04:24.73,0:04:27.78,Default,Haruno,0000,0000,0000,,So feel free to use this room \Nhowever you'd like!
+Dialogue: 0,0:04:29.17,0:04:32.29,Default,Yu,0000,0000,0000,,H-H-H-Haruno!
+Dialogue: 0,0:04:32.29,0:04:34.35,Default,Yu,0000,0000,0000,,Thanks!
+Dialogue: 0,0:04:34.35,0:04:35.49,Default,Yu,0000,0000,0000,,I know, I know!
+Dialogue: 0,0:04:35.49,0:04:39.04,Default,Yu,0000,0000,0000,,Why don't we make this place \N{\i1}our{\i0} secret base from now on?
+Dialogue: 0,0:04:39.27,0:04:41.80,DefaultItalics,Umika,0000,0000,0000,,A secret base for the three of us...
+Dialogue: 0,0:04:42.00,0:04:46.20,Default,Yu,0000,0000,0000,,It was yours to begin with, \Nso I can't hog it all to myself!
+Dialogue: 0,0:04:46.20,0:04:47.98,Default,Haruno,0000,0000,0000,,Huh? B-But...
+Dialogue: 0,0:04:47.98,0:04:49.81,Default,Yu,0000,0000,0000,,This place is important to you, isn't it?
+Dialogue: 0,0:04:49.81,0:04:54.69,Default,Yu,0000,0000,0000,,I think it'd be for the best if you \Ncame over to play a whole lot!
+Dialogue: 0,0:04:55.64,0:04:57.52,Default,Haruno,0000,0000,0000,,I suppose.
+Dialogue: 0,0:04:57.52,0:04:59.44,Default,Haruno,0000,0000,0000,,Thank you!
+Dialogue: 0,0:04:59.44,0:05:01.69,Signs,Sign,0000,0000,0000,,{\blur0.2\fnTimes New Roman\c&H2B3144&\3c&H2B3144&\bord0.5\fsp0.5\frz9.695\pos(295,51)}Operation:\NTake Down Matataki!
+Dialogue: 0,0:05:00.45,0:05:01.69,Default,Yu,0000,0000,0000,,Operation: take down Matataki!
+Dialogue: 0,0:05:01.94,0:05:04.50,Default,Yu,0000,0000,0000,,Let our first strategy meeting commence!
+Dialogue: 0,0:05:04.50,0:05:08.48,Default,Haruno,0000,0000,0000,,Since tomorrow is Saturday, \Nwe should all go shopping!
+Dialogue: 0,0:05:08.48,0:05:09.39,Default,Yu,0000,0000,0000,,Shopping?
+Dialogue: 0,0:05:09.39,0:05:10.75,Default,Yu,0000,0000,0000,,You mean a day out together?!
+Dialogue: 0,0:05:10.75,0:05:11.70,Default,Haruno,0000,0000,0000,,Yes!
+Dialogue: 0,0:05:11.70,0:05:14.46,Default,Haruno,0000,0000,0000,,We've used up quite a lot of materials.
+Dialogue: 0,0:05:14.46,0:05:15.97,Default,Umika,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:05:15.97,0:05:17.99,Default,Umika,0000,0000,0000,,L-Like electrical tape.
+Dialogue: 0,0:05:17.99,0:05:20.24,Default,Umika,0000,0000,0000,,We need some more, since we're low.
+Dialogue: 0,0:05:20.24,0:05:24.76,Default,Umika,0000,0000,0000,,A-Also, some stiff plastic sheets \Nfor the wings this time.
+Dialogue: 0,0:05:24.76,0:05:25.72,Default,Umika,0000,0000,0000,,What else?
+Dialogue: 0,0:05:25.72,0:05:26.72,Default,Yu,0000,0000,0000,,Bubb!
+Dialogue: 0,0:05:26.72,0:05:29.72,Default,Yu,0000,0000,0000,,I wanna try some bubble tea!
+Dialogue: 0,0:05:29.72,0:05:31.47,Signs,Sign,0000,0000,0000,,{\fad(276,348)\fnArial Black\shad1\bord2\c&HFCFDFE&\3c&H0D1415&\pos(224,86)}memo memo
+Dialogue: 0,0:05:29.72,0:05:31.47,Default,Umika,0000,0000,0000,,Bubble tea...
+Dialogue: 0,0:05:31.47,0:05:32.58,Default,Haruno,0000,0000,0000,,Dear tea.
+Dialogue: 0,0:05:33.44,0:05:36.80,Default,Haruno,0000,0000,0000,,Let's meet up at ten tomorrow morning, then.
+Dialogue: 0,0:05:36.80,0:05:39.73,Default,Yu,0000,0000,0000,,Yay! A day out!
+Dialogue: 0,0:05:43.68,0:05:45.65,Default,Honami,0000,0000,0000,,Your stubborn, messy hair...
+Dialogue: 0,0:05:45.65,0:05:47.45,Default,Honami,0000,0000,0000,,A worthy foe.
+Dialogue: 0,0:05:47.45,0:05:48.88,Default,Umika,0000,0000,0000,,H-Hona...
+Dialogue: 0,0:05:48.88,0:05:50.66,Default,Umika,0000,0000,0000,,Thanks for doing my hair.
+Dialogue: 0,0:05:51.05,0:05:53.72,Default,Honami,0000,0000,0000,,It's not often that you ask me to do this.
+Dialogue: 0,0:05:54.24,0:05:55.41,Default,Honami,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:05:56.86,0:05:59.42,Default,Umika,0000,0000,0000,,I-Into town for some shopping.
+Dialogue: 0,0:06:05.87,0:06:07.67,Default,Haruno,0000,0000,0000,,Umika-chan!
+Dialogue: 0,0:06:08.22,0:06:09.68,Default,Haruno,0000,0000,0000,,Bonavuu!
+Dialogue: 0,0:06:10.18,0:06:12.93,Default,Umika,0000,0000,0000,,M-Mativuu, Takaragi-san.
+Dialogue: 0,0:06:13.16,0:06:16.38,Default,Haruno,0000,0000,0000,,We still have 15 minutes! You're so early!
+Dialogue: 0,0:06:16.38,0:06:19.44,Default,Umika,0000,0000,0000,,Y-Yeah. I-I just got here.
+Dialogue: 0,0:06:21.56,0:06:22.94,Default,Yu,0000,0000,0000,,Bonavuu!
+Dialogue: 0,0:06:22.94,0:06:26.24,Default,Yu,0000,0000,0000,,Sorry! Am I late?
+Dialogue: 0,0:06:27.93,0:06:29.00,Default,Haruno,0000,0000,0000,,Mativuu.
+Dialogue: 0,0:06:29.00,0:06:31.23,Default,Haruno,0000,0000,0000,,You're right on time!
+Dialogue: 0,0:06:30.95,0:06:35.83,Signs,Sign,0000,0000,0000,,{\fad(1,269)\fs24\an4\fnComic Sans MS\c&H090000&\pos(348,80)}Arrived 15 minutes ago
+Dialogue: 0,0:06:31.23,0:06:33.01,Default,Umika,0000,0000,0000,,M-Mativuu!
+Dialogue: 0,0:06:33.01,0:06:34.83,Default,Umika,0000,0000,0000,,I-I just got here!
+Dialogue: 0,0:06:34.45,0:06:35.83,Signs,Sign,0000,0000,0000,,{\fad(1,269)\fs24\an4\fnComic Sans MS\c&H090000&\pos(34.5,36)}Actually arrived 1 hour ago
+Dialogue: 0,0:06:35.83,0:06:39.10,Default,Haruno,0000,0000,0000,,Let's start by shopping \Nfor all the small stuff first.
+Dialogue: 0,0:06:44.59,0:06:46.34,Signs,Sign,0000,0000,0000,,{\t(22,1732,\fscy93.05)\t(22,1732,\fscx93.05)\an9\fs16\bord2\c&HDD8B55&\3c&HF4FFF3&\move(378.5,144,374.89,146.53,22,1732)\fax0.1}Acrylic 3x6 sheets
+Dialogue: 0,0:06:44.59,0:06:46.34,Signs,Sign,0000,0000,0000,,{\t(22,1732,\fscy93.05)\t(22,1732,\fscx93.05)\an9\fs16\bord2\c&H1E4DE6&\3c&HF4FFF3&\move(413,127,406.99,130.71,22,1732)\fax0.1}PVC 3x6 sheets
+Dialogue: 0,0:06:44.59,0:06:46.34,Signs,Sign,0000,0000,0000,,{\t(22,1732,\fscy93.05)\t(22,1732,\fscx93.05)\an9\fs16\bord2\c&H50D4B0&\3c&HF4FFF3&\move(446.5,110.5,438.16,115.36,22,1732)\fax0.1}Polycarbonate 3x6 sheets
+Dialogue: 0,0:06:55.85,0:06:58.85,Signs,Sign,0000,0000,0000,,{\fad(440,516)\shad2\bord2\fnArial Black\c&HDBEBFC&\3c&H2B4669&\4c&H2B4669&\pos(313.5,180)}Humongous!!\NBaobab Grow Kit
+Dialogue: 0,0:07:06.29,0:07:09.49,Default,Yu,0000,0000,0000,,Oh! Look at all these plastic bottles!
+Dialogue: 0,0:07:09.49,0:07:12.09,Default,Yu,0000,0000,0000,,Can we really have these for free?
+Dialogue: 0,0:07:09.49,0:07:20.37,Signs,Sign,0000,0000,0000,,{\fscx90\an4\fs8\bord1.5\c&HCCC396&\3c&H887E46&\frz1.58\pos(41.5,208.5)}Plastic Bottles              {\t(5986,6195,\alpha&HFF&)}Plastic Bottles           {\t(3609,3817,\alpha&HFF&)}Plastic Bottles
+Dialogue: 0,0:07:12.09,0:07:15.87,Default,Haruno,0000,0000,0000,,Yes, we got permission from an employee here.
+Dialogue: 0,0:07:15.87,0:07:19.50,DefaultItalics,Umika,0000,0000,0000,,Now Akeuchi-san doesn't \Nhave to chug down soda.
+Dialogue: 0,0:07:19.12,0:07:20.37,Signs,Sign,0000,0000,0000,,{\fad(235,389)\shad2\fnArial Black\bord2\c&H8A56EE&\3c&HF4FBFF&\4c&H475670&\frz28.06\move(253,84.5,267,78.5,27,569)}Phew
+Dialogue: 0,0:07:22.40,0:07:24.50,Default,Umika,0000,0000,0000,,B-But these are...
+Dialogue: 0,0:07:24.82,0:07:28.38,Default,Haruno,0000,0000,0000,,There aren't any bottles the right size.
+Dialogue: 0,0:07:28.38,0:07:29.46,Default,Haruno,0000,0000,0000,,These are too small.
+Dialogue: 0,0:07:29.46,0:07:30.75,Default,Umika,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:07:51.42,0:07:53.61,Default,Kei,0000,0000,0000,,Do you want some of these?
+Dialogue: 0,0:07:58.91,0:08:00.06,Default,Yu,0000,0000,0000,,We can have them?
+Dialogue: 0,0:08:00.06,0:08:02.00,Default,Haruno,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:08:02.00,0:08:03.04,Default,Kei,0000,0000,0000,,How many?
+Dialogue: 0,0:08:03.04,0:08:04.27,Default,Yu,0000,0000,0000,,Six of 'em, then!
+Dialogue: 0,0:08:04.89,0:08:05.51,Default,Kei,0000,0000,0000,,Here.
+Dialogue: 0,0:08:05.51,0:08:06.67,Default,Yu,0000,0000,0000,,Score!
+Dialogue: 0,0:08:07.40,0:08:08.18,Default,Kei,0000,0000,0000,,And here.
+Dialogue: 0,0:08:13.82,0:08:17.84,Default,Umika,0000,0000,0000,,Th-Th-Thank you very much!
+Dialogue: 0,0:08:17.84,0:08:18.68,Default,Kei,0000,0000,0000,,Sure!
+Dialogue: 0,0:08:23.24,0:08:25.69,DefaultItalics,Umika,0000,0000,0000,,I'm glad she ended up being nice.
+Dialogue: 0,0:08:26.05,0:08:29.06,Default,Haruno,0000,0000,0000,,Now we've got everything we need.
+Dialogue: 0,0:08:29.06,0:08:31.76,Default,Yu,0000,0000,0000,,Mission complete!
+Dialogue: 0,0:08:31.76,0:08:32.72,Default,Yu,0000,0000,0000,,Okay, okay!
+Dialogue: 0,0:08:32.72,0:08:34.91,Default,Yu,0000,0000,0000,,What next? What next?
+Dialogue: 0,0:08:34.91,0:08:38.48,Default,Haruno,0000,0000,0000,,Let's see... We still have some time, so...
+Dialogue: 0,0:08:40.85,0:08:43.48,Default,Yu,0000,0000,0000,,Time for some fun!
+Dialogue: 0,0:08:43.96,0:08:45.96,Signs,Sign,0000,0000,0000,,{\fs14\bord2\c&H5857D5&\3c&HFFFFFF&\fay0.05\pos(117,118)}AMUSEMENT
+Dialogue: 0,0:08:45.96,0:08:47.96,Signs,Sign,0000,0000,0000,,{\blur0.2\fnGeorgia\c&H1B1B2B&\move(192.5,273.5,247.37,273.4,23,1984)}Earthling
+Dialogue: 0,0:08:45.96,0:08:47.96,Signs,Sign,0000,0000,0000,,{\blur0.2\fnGeorgia\c&H1B1B2B&\move(367.5,298.5,422.37,298.4,23,1984)}Alien
+Dialogue: 0,0:08:54.47,0:08:56.22,Signs,Sign,0000,0000,0000,,{\bord3.5\fnArial Black\c&H4745E1&\3c&H767E63&\frz349.5\fax0.1\fscx50\move(482.5,129,392.47,129.06,22,1732)}AMUSEMENT
+Dialogue: 1,0:08:54.47,0:08:56.22,Signs,Sign,0000,0000,0000,,{\bord2\fnArial Black\c&H4745E1&\3c&HFFFFFF&\frz349.5\fax0.1\fscx50\move(482.5,129,392.47,129.06,22,1732)}AMUSEMENT
+Dialogue: 0,0:09:14.86,0:09:17.49,Signs,Sign,0000,0000,0000,,{\fad(152,1)\fs30\bord2\fnComic Sans MS\3c&HA872DD&\frz13.4\pos(341,77.5)}Cosmic Peace
+Dialogue: 0,0:09:15.80,0:09:17.49,Default,Yu,0000,0000,0000,,So these are photo stickers!
+Dialogue: 0,0:09:17.49,0:09:19.16,Default,Yu,0000,0000,0000,,They're so sparkly.
+Dialogue: 0,0:09:19.16,0:09:21.44,Default,Haruno,0000,0000,0000,,It's my first time as well.
+Dialogue: 0,0:09:21.44,0:09:22.98,Default,Umika,0000,0000,0000,,M-Me too.
+Dialogue: 0,0:09:22.98,0:09:23.62,Default,Yu,0000,0000,0000,,Hey!
+Dialogue: 0,0:09:23.62,0:09:32.13,Signs,Sign,0000,0000,0000,,{\fad(2111,1)\fs20\bord2\fnComic Sans MS\3c&HA872DD&\frz13.4\pos(224.5,13)}Cosmic Peace
+Dialogue: 0,0:09:23.93,0:09:26.19,Default,Yu,0000,0000,0000,,Umika, you're hiding in all of these!
+Dialogue: 0,0:09:26.19,0:09:29.52,Default,Umika,0000,0000,0000,,I-I'm not used to taking photos.
+Dialogue: 0,0:09:29.52,0:09:32.13,Default,Yu,0000,0000,0000,,Let's take one more, \Nwith you in the center!
+Dialogue: 0,0:09:33.06,0:09:36.06,Default,Umika,0000,0000,0000,,I-I-I don't need to, r-r-really...
+Dialogue: 0,0:09:37.88,0:09:42.76,Signs,Sign,0000,0000,0000,,{\bord1\fs20\fnComic Sans MS\c&H7DFEFC&\3c&H6B78B3&\frz1.94\fax-0.06\pos(94.5,13)}L{\c&HF3FDFE&}a{\c&H7DFEFC&}t{\c&HF3FDFE&}e{\c&H7DFEFC&}s{\c&HF3FDFE&}t {\c&H7DFEFC&}P{\c&HF3FDFE&}h{\c&H7DFEFC&}o{\c&HF3FDFE&}t{\c&H7DFEFC&}o {\c&HF3FDFE&}B{\c&H7DFEFC&}o{\c&HF3FDFE&}o{\c&H7DFEFC&}t{\c&HF3FDFE&}h{\c&H7DFEFC&}s
+Dialogue: 0,0:09:40.57,0:09:42.00,Default,Group,0000,0000,0000,,Don't you dare!
+Dialogue: 0,0:09:44.37,0:09:46.21,Default,Haruno,0000,0000,0000,,An alien being captured?
+Dialogue: 0,0:09:46.21,0:09:48.48,Default,Yu,0000,0000,0000,,It's Umika's fault for trying to run away!
+Dialogue: 0,0:09:48.48,0:09:54.99,Signs,Sign,0000,0000,0000,,{\bord1\fs20\fnComic Sans MS\c&H7DFEFC&\3c&H6B78B3&\frz1.94\fax-0.06\pos(153,15.5)}L{\c&HF3FDFE&}a{\c&H7DFEFC&}t{\c&HF3FDFE&}e{\c&H7DFEFC&}s{\c&HF3FDFE&}t {\c&H7DFEFC&}P{\c&HF3FDFE&}h{\c&H7DFEFC&}o{\c&HF3FDFE&}t{\c&H7DFEFC&}o {\c&HF3FDFE&}B{\c&H7DFEFC&}o{\c&HF3FDFE&}o{\c&H7DFEFC&}t{\c&HF3FDFE&}h{\c&H7DFEFC&}s
+Dialogue: 0,0:09:49.17,0:09:52.03,Default,Haruno,0000,0000,0000,,I guess the photo ended up \Nlooking a little weird.
+Dialogue: 0,0:09:52.49,0:09:53.92,Default,Haruno,0000,0000,0000,,Should we take one more?
+Dialogue: 0,0:09:53.92,0:09:54.99,Default,Umika,0000,0000,0000,,No...
+Dialogue: 0,0:09:55.22,0:09:56.95,Default,Umika,0000,0000,0000,,This is fine.
+Dialogue: 0,0:09:58.00,0:09:59.49,Default,Umika,0000,0000,0000,,I like this one!
+Dialogue: 0,0:09:59.80,0:10:00.58,Default,Yu,0000,0000,0000,,Hey, hey!
+Dialogue: 0,0:10:00.58,0:10:01.67,Default,Yu,0000,0000,0000,,One more!
+Dialogue: 0,0:10:01.67,0:10:02.95,Default,Yu,0000,0000,0000,,Let's take one more!
+Dialogue: 0,0:10:02.95,0:10:03.99,Default,Yu,0000,0000,0000,,Pretty please!
+Dialogue: 0,0:10:03.99,0:10:10.75,Signs,Sign,0000,0000,0000,,{\bord1\fs17\fscx90\c&H77FF65&\frz17.47\fax-0.28\3c&H79B076&\pos(189,33.5)}S{\c&HCBFFFA&}p{\c&H77FF65&}r{\c&HCBFFFA&}i{\c&H77FF65&}n{\c&HCBFFFA&}g {\c&H77FF65&}O{\c&HCBFFFA&}n{\c&H77FF65&}l{\c&HCBFFFA&}y{\c&H77FF65&}!{\c&HCBFFFA&}\N\N\N\NC{\c&H77FF65&}h{\c&HCBFFFA&}e{\c&H77FF65&}r{\c&HCBFFFA&}r{\c&H77FF65&}y {\c&HCBFFFA&}B{\c&H77FF65&}l{\c&HCBFFFA&}o{\c&H77FF65&}s{\c&HCBFFFA&}s{\c&H77FF65&}o{\c&HCBFFFA&}m {\c&H77FF65&}D{\c&HCBFFFA&}e{\c&H77FF65&}s{\c&HCBFFFA&}i{\c&H77FF65&}g{\c&HCBFFFA&}n {\c&H77FF65&}F{\c&HCBFFFA&}r{\c&H77FF65&}a{\c&HCBFFFA&}m{\c&H77FF65&}e
+Dialogue: 0,0:10:03.99,0:10:10.75,Signs,Sign,0000,0000,0000,,{\fs16\fnComic Sans MS\c&H837DF7&\fax-0.2\frz17.99\pos(360.5,232.5)}Take a picture in this trendy pose {\fnArial}♥
+Dialogue: 0,0:10:04.40,0:10:07.26,Default,Yu,0000,0000,0000,,I wanna try the spring-only design and pose!
+Dialogue: 0,0:10:07.26,0:10:09.58,Default,Haruno,0000,0000,0000,,It looks like Yu-chan wants to go again.
+Dialogue: 0,0:10:11.66,0:10:13.75,Default,Yu,0000,0000,0000,,Bubble tea, yay!
+Dialogue: 0,0:10:13.75,0:10:15.74,Default,Yu,0000,0000,0000,,Bubble bubble, tea tea!
+Dialogue: 0,0:10:15.74,0:10:17.30,Default,Yu,0000,0000,0000,,Bubble tea!
+Dialogue: 0,0:10:17.30,0:10:20.75,Default,Haruno,0000,0000,0000,,Bubble bubble, tea tea!
+Dialogue: 0,0:10:21.26,0:10:24.82,DefaultItalics,Umika,0000,0000,0000,,It's my first time hanging out \Nwith people like this.
+Dialogue: 0,0:10:25.52,0:10:26.43,Default,Yu,0000,0000,0000,,Oh, yeah!
+Dialogue: 0,0:10:26.43,0:10:29.38,Default,Yu,0000,0000,0000,,Do you mind if we stop by a stationery store?
+Dialogue: 0,0:10:29.38,0:10:31.02,Default,Haruno,0000,0000,0000,,No, of course not.
+Dialogue: 0,0:10:31.02,0:10:32.70,Default,Yu,0000,0000,0000,,How about you, Umika?
+Dialogue: 0,0:10:33.30,0:10:34.52,Default,Umika,0000,0000,0000,,I-I don't mind.
+Dialogue: 0,0:10:36.03,0:10:39.03,Signs,Sign,0000,0000,0000,,{\bord2\shad2\t(22,2983,\fscy67.46\fscx67.46\bord1.35\shad1.35)\fnArial Black\c&H49D9E6&\3c&H6A504F&\4c&H6A504F&\fs18\move(324,86,241.81,59.01,22,2983)}Galactic Roar
+Dialogue: 0,0:10:36.03,0:10:39.03,Signs,Sign,0000,0000,0000,,{\bord2\shad2\t(22,2983,\fscy67.46\fscx67.46\bord1.35\shad1.35)\fnImpact\c&H3D20BF&\3c&H6A504F&\4c&H6A504F&\fs40\move(325,162,242.48,110.28,22,2983)\b0\fsp2}G{*\c&H3E30C5&}u{*\c&H3E41CB&}n{*\c&H3E52D1&}v{*\c&H3F62D8&}a{*\c&H4072DE&}l{*\c&H4083E4&}i{*\c&H4094EA&}o{\c&H41A4F0&}n
+Dialogue: 0,0:10:36.03,0:10:39.03,Signs,Sign,0000,0000,0000,,{\bord2\shad2\t(22,2983,\fscy67.46\fscx67.46\bord1.35\shad1.35)\fnArial Black\c&HDAD5E4&\3c&H6A504F&\4c&H6A504F&\fs12\move(430.5,185,313.66,125.8,22,2983)}the Movie
+Dialogue: 0,0:10:36.03,0:10:39.03,Signs,Sign,0000,0000,0000,,{\bord2\shad1\t(22,2983,\fscy67.46\fscx67.46\bord1.35\shad0.67)\fnTimes New Roman\fsp1\c&HDAD3E7&\3c&H5D4053&\4c&H5D4053&\fs18\move(324.5,216,242.15,146.71,22,2983)}To the Ends of Space
+Dialogue: 0,0:10:40.13,0:10:44.03,DefaultItalics,Umika,0000,0000,0000,,Next time, I'd love for \NRaimon-san to join us, too.
+Dialogue: 0,0:10:44.28,0:10:47.32,Default,Yu,0000,0000,0000,,Hmm? Gunvalion?
+Dialogue: 0,0:10:47.32,0:10:49.36,Default,Haruno,0000,0000,0000,,It's a robot anime.
+Dialogue: 0,0:10:49.36,0:10:52.35,Default,Haruno,0000,0000,0000,,It was all the rage back \Nat my elementary school!
+Dialogue: 0,0:10:52.35,0:10:58.77,Default,Umika,0000,0000,0000,,I-In middle school, I heard \Nthat Raimon-san l-liked it...
+Dialogue: 0,0:10:58.77,0:11:00.55,DefaultItalics,Matataki,0000,0000,0000,,Stop eavesdropping!
+Dialogue: 0,0:11:00.80,0:11:03.33,Default,Haruno,0000,0000,0000,,Oh, is that so?
+Dialogue: 0,0:11:03.33,0:11:05.52,Default,Yu,0000,0000,0000,,Huh! Looks neat!
+Dialogue: 0,0:11:05.52,0:11:06.87,Default,Umika,0000,0000,0000,,U-Um...
+Dialogue: 0,0:11:09.56,0:11:13.93,Default,Umika,0000,0000,0000,,Wh-What do you think of this \Nfor our rocket design?
+Dialogue: 0,0:11:16.96,0:11:17.82,Default,Matataki,0000,0000,0000,,Damn it!
+Dialogue: 0,0:11:17.82,0:11:21.62,Default,Matataki,0000,0000,0000,,Why am I taking this plastic \Nbottle rocket so seriously?!
+Dialogue: 0,0:11:24.12,0:11:26.20,Default,Matataki,0000,0000,0000,,I feel so stupid.
+Dialogue: 0,0:11:27.63,0:11:30.76,DefaultItalics,Matataki,0000,0000,0000,,I don't need to waste my time \Non things I don't care about.
+Dialogue: 0,0:11:30.76,0:11:32.75,DefaultItalics,Matataki,0000,0000,0000,,The same goes for them as well.
+Dialogue: 0,0:11:33.46,0:11:37.39,DefaultItalics,Matataki,0000,0000,0000,,They just need my skills \Nto build their rocket.
+Dialogue: 0,0:11:38.16,0:11:39.29,DefaultItalics,Matataki,0000,0000,0000,,That's right.
+Dialogue: 0,0:11:39.29,0:11:42.38,DefaultItalics,Matataki,0000,0000,0000,,If we don't care about each other, \Nthat'll be the end of that.
+Dialogue: 0,0:11:42.38,0:11:44.32,DefaultItalics,Matataki,0000,0000,0000,,Sounds totally fine to me.
+Dialogue: 0,0:11:45.13,0:11:47.97,DefaultItalics,Matataki,0000,0000,0000,,I'll put an end to this stupid duel!
+Dialogue: 0,0:11:50.23,0:11:51.98,Signs,Sign,0000,0000,0000,,{\fad(776,1)\fnVerdana\c&H82A6E6&\frz4.74\fax-0.06\fsp2.4\3c&HFFFFFF&\bord1\blur0.5\pos(317,229.5)}S{\c&HF57A71&}ta{\c&HD5FC8B&}r{\c&H9958ED&}du{\c&HD6FF80&}st {\c&H82A6E6&}Te{\c&HD6FF80&}le{\c&H9958ED&}pa{\c&HF57A71&}th
+Dialogue: 0,0:11:54.48,0:11:56.53,Default,Yu,0000,0000,0000,,Popyun!
+Dialogue: 0,0:11:56.53,0:11:59.15,Default,Yu,0000,0000,0000,,The showdown is finally about to begin!
+Dialogue: 0,0:11:59.15,0:12:02.24,Default,Yu,0000,0000,0000,,Let's get this bottle rocket duel started!
+Dialogue: 0,0:12:03.20,0:12:05.02,Default,Yu,0000,0000,0000,,Umika-san, from Team Shooting Star!
+Dialogue: 0,0:12:05.02,0:12:06.66,Default,Yu,0000,0000,0000,,Tell us how you're feeling!
+Dialogue: 0,0:12:07.58,0:12:09.46,Default,Haruno,0000,0000,0000,,Team Shooting Star?
+Dialogue: 0,0:12:09.46,0:12:10.82,Default,Yu,0000,0000,0000,,I just came up with it!
+Dialogue: 0,0:12:10.82,0:12:12.43,Default,Yu,0000,0000,0000,,How do you feel?
+Dialogue: 0,0:12:13.93,0:12:16.21,Default,Umika,0000,0000,0000,,W-W-We'll win this!
+Dialogue: 0,0:12:16.21,0:12:17.75,Default,Yu,0000,0000,0000,,And their opponent, Matataki-san!
+Dialogue: 0,0:12:17.75,0:12:18.92,Default,Yu,0000,0000,0000,,Tell us how you feel!
+Dialogue: 0,0:12:18.92,0:12:20.17,Default,Matataki,0000,0000,0000,,Can I leave now?
+Dialogue: 0,0:12:20.17,0:12:22.14,Default,Yu,0000,0000,0000,,What'd you have for breakfast today?
+Dialogue: 0,0:12:22.14,0:12:22.89,Default,Matataki,0000,0000,0000,,Hey.
+Dialogue: 0,0:12:22.89,0:12:24.40,Default,Haruno,0000,0000,0000,,What do you like in your miso soup?
+Dialogue: 0,0:12:24.40,0:12:25.13,Default,Matataki,0000,0000,0000,,Don't ignore me.
+Dialogue: 0,0:12:25.13,0:12:26.75,Default,Yu,0000,0000,0000,,What do you like better, bread or rice?
+Dialogue: 0,0:12:26.75,0:12:27.93,Default,Matataki,0000,0000,0000,,Rice, damn it!
+Dialogue: 0,0:12:30.11,0:12:33.00,Default,Matataki,0000,0000,0000,,Don't make me a part of your little charade.
+Dialogue: 0,0:12:33.00,0:12:34.56,Default,Matataki,0000,0000,0000,,Let's get this show on the road.
+Dialogue: 0,0:12:34.85,0:12:35.78,Default,Yu,0000,0000,0000,,What?!
+Dialogue: 0,0:12:35.78,0:12:39.32,Default,Yu,0000,0000,0000,,A duel's no fun unless you \Nhype it up at the start!
+Dialogue: 0,0:12:39.32,0:12:41.87,Default,Matataki,0000,0000,0000,,What'd you have for breakfast ten days ago?
+Dialogue: 0,0:12:42.57,0:12:44.56,Default,Yu,0000,0000,0000,,T-Ten days ago?
+Dialogue: 0,0:12:44.56,0:12:46.27,Default,Yu,0000,0000,0000,,U-Um...
+Dialogue: 0,0:12:46.27,0:12:47.82,Default,Yu,0000,0000,0000,,One, two...
+Dialogue: 0,0:12:46.56,0:12:47.82,DefaultTop,Matataki,0000,0000,0000,,Dumb nutter.
+Dialogue: 0,0:12:48.18,0:12:50.73,Default,Haruno,0000,0000,0000,,Should we go over the rules first?
+Dialogue: 0,0:12:50.73,0:12:52.33,Default,Yu,0000,0000,0000,,I can't remember!
+Dialogue: 0,0:12:52.54,0:12:55.29,Default,Matataki,0000,0000,0000,,We get two shots with our rocket, right?
+Dialogue: 0,0:12:55.29,0:12:56.58,Default,Umika,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:12:56.58,0:13:00.44,Default,Umika,0000,0000,0000,,We'll both get t-two chances \Nto launch our rockets,
+Dialogue: 0,0:13:00.44,0:13:03.84,Default,Umika,0000,0000,0000,,and w-we'll take the better record...
+Dialogue: 0,0:13:03.84,0:13:05.84,Default,Matataki,0000,0000,0000,,And use it to see who wins?
+Dialogue: 0,0:13:07.09,0:13:09.21,Default,Matataki,0000,0000,0000,,We're using {\i1}plastic bottle{\i0} rockets,
+Dialogue: 0,0:13:09.21,0:13:12.01,Default,Matataki,0000,0000,0000,,and whichever one {\i1}flies further{\i0} wins.
+Dialogue: 0,0:13:12.01,0:13:13.85,Default,Matataki,0000,0000,0000,,Do I have that right?
+Dialogue: 0,0:13:13.85,0:13:15.10,Default,Umika,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:13:15.10,0:13:17.52,Signs,Sign,0000,0000,0000,,{\fs30\fnGeorgia\c&HFDFFF9&\3c&H8F50F1&\4c&H8F50F1&\shad2\bord2\alpha&HFF&\t(27,736,\alpha&H00&)}Rocket\N{\alpha&HFF&\t(945,1696,\alpha&H00&)}Two-Round Showdown
+Dialogue: 0,0:13:18.16,0:13:19.31,Default,Umika,0000,0000,0000,,I'm up first!
+Dialogue: 0,0:13:19.02,0:13:21.86,Signs,Sign,0000,0000,0000,,{\fad(487,1)\fnGeorgia\c&HFDFFF9&\3c&H8F50F1&\4c&H8F50F1&\shad2\bord2\pos(153.5,10)}Rocket\NTwo-Round Showdown
+Dialogue: 0,0:13:19.02,0:13:21.86,Signs,Sign,0000,0000,0000,,{\fad(487,1)\fnArial Black\c&HFDFFF9&\3c&H8F50F1&\4c&H8F50F1&\shad2\bord2\pos(126.5,208)}Team Shooting Star
+Dialogue: 0,0:13:19.31,0:13:20.03,Default,Haruno,0000,0000,0000,,Bravo!
+Dialogue: 0,0:13:20.03,0:13:21.86,Default,Yu,0000,0000,0000,,So Umi-cool!
+Dialogue: 0,0:13:22.86,0:13:24.40,Default,Haruno,0000,0000,0000,,I'm standing it up now.
+Dialogue: 0,0:13:24.40,0:13:25.12,Default,Umika,0000,0000,0000,,Okay.
+Dialogue: 0,0:13:26.76,0:13:28.68,DefaultItalics,Matataki,0000,0000,0000,,Their rocket...
+Dialogue: 0,0:13:28.68,0:13:32.87,DefaultItalics,Matataki,0000,0000,0000,,The colors look like the Gunvalion \NMk. III's chest armor...
+Dialogue: 0,0:13:33.29,0:13:34.49,DefaultItalics,Matataki,0000,0000,0000,,kinda.
+Dialogue: 0,0:13:35.00,0:13:36.33,Signs,Sign,0000,0000,0000,,{\fad(272,98)\blur0.3\fs40\bord4\fnArial Black\c&H01BAF1&\3c&H132339&\frz16.27\pos(223.5,80)}STARE...
+Dialogue: 0,0:13:36.75,0:13:38.00,Signs,Sign,0000,0000,0000,,{\fad(272,1)\blur0.3\fs40\bord4\fnArial Black\c&HA269EB&\3c&H132339&\frz16.27\pos(389.5,164)}STARE...
+Dialogue: 0,0:13:39.58,0:13:41.16,DefaultItalics,Matataki,0000,0000,0000,,No, it's just a coincidence!
+Dialogue: 0,0:13:41.16,0:13:42.00,DefaultItalics,Matataki,0000,0000,0000,,A coincidence!
+Dialogue: 0,0:13:43.95,0:13:46.87,Default,Umika,0000,0000,0000,,Three, two, one...
+Dialogue: 0,0:14:00.91,0:14:02.40,Default,Haruno,0000,0000,0000,,One hundred and three meters!
+Dialogue: 0,0:14:02.73,0:14:03.79,Default,Yu,0000,0000,0000,,Woo-hoo!
+Dialogue: 0,0:14:03.79,0:14:05.28,Default,Yu,0000,0000,0000,,We broke 100 meters!
+Dialogue: 0,0:14:05.67,0:14:07.95,DefaultItalics,Umika,0000,0000,0000,,Our farthest yet!
+Dialogue: 0,0:14:07.95,0:14:10.28,DefaultItalics,Umika,0000,0000,0000,,This might be enough to beat Raimon-san!
+Dialogue: 0,0:14:17.29,0:14:20.00,Signs,Sign,0000,0000,0000,,{\fad(233,1)\shad2\bord2\fnArial Black\an7\c&HFDFFFD&\3c&H4B0133&\4c&H4B0133&\pos(60.5,119.5)}Second up:\N{\fs27}Matataki Raimon
+Dialogue: 0,0:14:20.00,0:14:21.04,Signs,Sign,0000,0000,0000,,{\shad2\bord2\t(25,317,\fscx75\fscy75\shad1.5\bord1.5)\fnArial Black\an7\c&HFDFFFD&\3c&H4B0133&\4c&H4B0133&\move(60.5,119.5,190.82,110.48,25,317)}Second up:\N{\fs27}Matataki Raimon
+Dialogue: 0,0:14:22.87,0:14:24.02,Default,Haruno,0000,0000,0000,,Umika-chan...
+Dialogue: 0,0:14:26.39,0:14:27.57,DefaultItalics,Umika,0000,0000,0000,,It'll be okay.
+Dialogue: 0,0:14:28.29,0:14:30.00,DefaultItalics,Umika,0000,0000,0000,,With all of us...
+Dialogue: 0,0:14:30.00,0:14:31.98,DefaultItalics,Umika,0000,0000,0000,,With our rocket...
+Dialogue: 0,0:14:33.34,0:14:35.01,DefaultItalics,Umika,0000,0000,0000,,I know we'll be fine.
+Dialogue: 0,0:14:45.00,0:14:48.07,DefaultItalics,Umika,0000,0000,0000,,Unswervingly... Farther beyond...
+Dialogue: 0,0:14:50.11,0:14:54.29,DefaultItalics,Umika,0000,0000,0000,,Please let these feelings reach Raimon-san!
+Dialogue: 0,0:15:01.80,0:15:04.09,DefaultItalics,Matataki,0000,0000,0000,,The second one flew over 110 meters.
+Dialogue: 0,0:15:04.09,0:15:06.75,DefaultItalics,Matataki,0000,0000,0000,,It's not because they \Ngot lucky with the wind.
+Dialogue: 0,0:15:06.75,0:15:07.92,DefaultItalics,Matataki,0000,0000,0000,,The precisely engineered fuselage...
+Dialogue: 0,0:15:07.92,0:15:10.27,DefaultItalics,Matataki,0000,0000,0000,,Water pressure, air pressure...
+Dialogue: 0,0:15:10.27,0:15:12.79,DefaultItalics,Matataki,0000,0000,0000,,It's all been fine-tuned to the max!
+Dialogue: 0,0:15:13.54,0:15:18.00,DefaultItalics,Matataki,0000,0000,0000,,The longest flight distance in \Nmy simulations was 107 meters.
+Dialogue: 0,0:15:18.00,0:15:21.05,DefaultItalics,Matataki,0000,0000,0000,,The run I just had was pretty high up there.
+Dialogue: 0,0:15:21.05,0:15:25.18,DefaultItalics,Matataki,0000,0000,0000,,It'll be hard to beat it with \Nnothing but a hand pump.
+Dialogue: 0,0:15:25.84,0:15:29.11,DefaultItalics,Matataki,0000,0000,0000,,That Mk. III of theirs ain't too shabby!
+Dialogue: 0,0:15:30.36,0:15:31.75,Default,Yu,0000,0000,0000,,There, there.
+Dialogue: 0,0:15:32.72,0:15:34.73,Default,Matataki,0000,0000,0000,,Don't think you've won just yet!
+Dialogue: 0,0:15:35.44,0:15:38.87,Default,Matataki,0000,0000,0000,,I've still got one more rocket up my sleeve!
+Dialogue: 0,0:15:39.11,0:15:41.05,Default,Matataki,0000,0000,0000,,That record of yours...
+Dialogue: 0,0:15:41.05,0:15:43.38,Default,Matataki,0000,0000,0000,,I'll break right through it like it's nothing!
+Dialogue: 0,0:15:44.63,0:15:46.80,Default,Matataki,0000,0000,0000,,With this baby!
+Dialogue: 0,0:15:47.85,0:15:49.18,Default,Yu,0000,0000,0000,,What's that?!
+Dialogue: 0,0:15:49.60,0:15:50.38,Default,Yu,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:50.78,0:15:55.21,Default,Yu,0000,0000,0000,,It's... not like any plastic \Nbottle rocket I've seen.
+Dialogue: 0,0:15:55.86,0:15:57.64,Default,Matataki,0000,0000,0000,,Plastic bottle rocket?
+Dialogue: 0,0:15:58.62,0:16:00.05,Default,Matataki,0000,0000,0000,,Don't make me laugh.
+Dialogue: 0,0:16:00.05,0:16:03.65,Default,Matataki,0000,0000,0000,,What you made is a water rocket.
+Dialogue: 0,0:16:05.19,0:16:08.40,Default,Matataki,0000,0000,0000,,There's no rule that says I can't use \Nblack powder for propulsion,
+Dialogue: 0,0:16:08.40,0:16:10.06,Default,Matataki,0000,0000,0000,,is there?
+Dialogue: 0,0:16:12.04,0:16:14.16,Default,Matataki,0000,0000,0000,,Pierce the heavens!
+Dialogue: 0,0:16:14.16,0:16:15.90,Default,Matataki,0000,0000,0000,,Fly high!
+Dialogue: 0,0:16:26.76,0:16:29.30,Default,Matataki,0000,0000,0000,,Maximum altitude, 127 meters.
+Dialogue: 0,0:16:30.76,0:16:32.30,Default,Matataki,0000,0000,0000,,Victory is mine.
+Dialogue: 0,0:16:34.31,0:16:35.80,Default,Yu,0000,0000,0000,,Amazing...
+Dialogue: 0,0:16:36.18,0:16:37.77,Default,Yu,0000,0000,0000,,Wait, no! You cheated!
+Dialogue: 0,0:16:37.77,0:16:38.73,Default,Yu,0000,0000,0000,,That's cheating!
+Dialogue: 0,0:16:38.73,0:16:39.84,Default,Yu,0000,0000,0000,,No fair!
+Dialogue: 0,0:16:39.84,0:16:41.12,Default,Matataki,0000,0000,0000,,Shut your face!
+Dialogue: 0,0:16:41.12,0:16:42.87,Default,Matataki,0000,0000,0000,,There was a plastic bottle around it,
+Dialogue: 0,0:16:42.87,0:16:47.31,Default,Matataki,0000,0000,0000,,so launching a model rocket with a black \Npowder engine isn't against the rules!
+Dialogue: 0,0:16:48.01,0:16:50.74,DefaultTop,Matataki,0000,0000,0000,,Also, three against one is even more unfair!
+Dialogue: 0,0:16:49.73,0:16:50.74,DefaultItalics,Umika,0000,0000,0000,,We lost.
+Dialogue: 0,0:16:50.74,0:16:52.15,DefaultItalics,Umika,0000,0000,0000,,We ended up losing.
+Dialogue: 0,0:16:50.74,0:16:52.56,DefaultTop,Yu,0000,0000,0000,,Wait, you didn't even measure the distance!
+Dialogue: 0,0:16:52.56,0:16:54.38,DefaultTop,Yu,0000,0000,0000,,That's just plain cheating!
+Dialogue: 0,0:16:52.56,0:16:56.48,DefaultItalics,Umika,0000,0000,0000,,My last chance to talk with Raimon-san...
+Dialogue: 0,0:16:54.38,0:16:57.32,DefaultTop,Matataki,0000,0000,0000,,Altitude counts as distance, too!
+Dialogue: 0,0:16:56.48,0:16:57.32,DefaultItalics,Umika,0000,0000,0000,,I...
+Dialogue: 0,0:16:59.76,0:17:00.92,DefaultItalics,Matataki,0000,0000,0000,,What's her deal?
+Dialogue: 0,0:17:00.92,0:17:04.06,DefaultItalics,Matataki,0000,0000,0000,,Acting like the world's just ended \Nbecause of this duel...
+Dialogue: 0,0:17:04.63,0:17:06.86,DefaultItalics,Matataki,0000,0000,0000,,You're making me look like the bad guy here!
+Dialogue: 0,0:17:09.09,0:17:12.21,Default,Matataki,0000,0000,0000,,Hey, I took the effort \Nto put on a show for you.
+Dialogue: 0,0:17:12.21,0:17:14.18,Default,Matataki,0000,0000,0000,,Stop staring at your feet already.
+Dialogue: 0,0:17:17.29,0:17:18.90,DefaultItalics,Matataki,0000,0000,0000,,She really ticks me off.
+Dialogue: 0,0:17:19.78,0:17:22.85,Default,Matataki,0000,0000,0000,,Spit out whatever you had to say to me.
+Dialogue: 0,0:17:22.85,0:17:26.07,Default,Matataki,0000,0000,0000,,I don't mind hearing out \Nthe last words of a loser.
+Dialogue: 0,0:17:26.98,0:17:28.48,Default,Umika,0000,0000,0000,,You're okay with that?
+Dialogue: 0,0:17:28.72,0:17:30.73,DefaultItalics,Matataki,0000,0000,0000,,Yeah. Fine by me.
+Dialogue: 0,0:17:31.02,0:17:32.90,DefaultItalics,Matataki,0000,0000,0000,,Say whatever you want.
+Dialogue: 0,0:17:32.90,0:17:33.99,Default,Yu,0000,0000,0000,,Umika.
+Dialogue: 0,0:17:35.37,0:17:37.40,DefaultItalics,Matataki,0000,0000,0000,,I bet you'll ask me to help with your rocket,
+Dialogue: 0,0:17:37.40,0:17:39.60,DefaultItalics,Matataki,0000,0000,0000,,or to cough up the parts that you need.
+Dialogue: 0,0:17:39.60,0:17:42.24,DefaultItalics,Matataki,0000,0000,0000,,Something stupid and selfish like that.
+Dialogue: 0,0:17:42.81,0:17:46.74,DefaultItalics,Matataki,0000,0000,0000,,You went to all of this trouble, \Nonly to lose the duel.
+Dialogue: 0,0:17:46.74,0:17:48.75,Default,Umika,0000,0000,0000,,R-Raimon-san...
+Dialogue: 0,0:17:49.24,0:17:51.75,DefaultItalics,Matataki,0000,0000,0000,,I'll take pity on you and give you a chance.
+Dialogue: 0,0:17:52.20,0:17:54.04,Default,Umika,0000,0000,0000,,Y-You see...
+Dialogue: 0,0:17:54.51,0:17:58.52,DefaultItalics,Matataki,0000,0000,0000,,So that I can throw those hopes \Nof yours right in the trash!
+Dialogue: 0,0:17:59.51,0:18:02.93,Default,Umika,0000,0000,0000,,Th-Those goggles on your head!
+Dialogue: 0,0:18:02.93,0:18:04.27,Default,Umika,0000,0000,0000,,I think they're awesome!
+Dialogue: 0,0:18:07.28,0:18:07.95,Default,Matataki,0000,0000,0000,,What?
+Dialogue: 0,0:18:08.44,0:18:11.94,Default,Umika,0000,0000,0000,,E-Ever since middle school, I've always...
+Dialogue: 0,0:18:20.55,0:18:23.04,Default,Umika,0000,0000,0000,,I've always w-wanted to tell you!
+Dialogue: 0,0:18:23.04,0:18:28.01,Default,Umika,0000,0000,0000,,About how c-c-c-cool \NI think your goggles look!
+Dialogue: 0,0:18:28.01,0:18:28.72,Default,Matataki,0000,0000,0000,,What?
+Dialogue: 0,0:18:28.72,0:18:32.17,Default,Umika,0000,0000,0000,,I-I'd love to try them on someday.
+Dialogue: 0,0:18:32.17,0:18:32.84,Default,Matataki,0000,0000,0000,,What?!
+Dialogue: 0,0:18:33.26,0:18:37.04,Default,Matataki,0000,0000,0000,,Wait, that was what you wanted \Nto say to me, face to face?
+Dialogue: 0,0:18:37.04,0:18:38.29,Default,Umika,0000,0000,0000,,Y-Yeah.
+Dialogue: 0,0:18:38.29,0:18:39.76,Default,Matataki,0000,0000,0000,,Seriously?
+Dialogue: 0,0:18:39.76,0:18:45.10,Default,Umika,0000,0000,0000,,W-Well, you s-s-stopped \Ncoming to school and all.
+Dialogue: 0,0:18:45.41,0:18:47.88,Default,Umika,0000,0000,0000,,So I never got a chance to tell you.
+Dialogue: 0,0:18:47.88,0:18:50.40,Default,Umika,0000,0000,0000,,And that's why, um...
+Dialogue: 0,0:18:50.40,0:18:59.03,Default,Umika,0000,0000,0000,,I'd be happy if I g-got to \Nsee you at school a-again!
+Dialogue: 0,0:18:59.28,0:19:03.56,Default,Umika,0000,0000,0000,,I-I feel frustrated a-about losing today...
+Dialogue: 0,0:19:04.24,0:19:05.45,Default,Umika,0000,0000,0000,,but I had fun!
+Dialogue: 0,0:19:06.12,0:19:08.31,Default,Umika,0000,0000,0000,,Let's do it again!
+Dialogue: 0,0:19:12.94,0:19:14.67,Default,Umika,0000,0000,0000,,I-I'm...
+Dialogue: 0,0:19:14.67,0:19:16.46,Default,Umika,0000,0000,0000,,gonna go get a drink!
+Dialogue: 0,0:19:16.46,0:19:18.67,Default,Haruno,0000,0000,0000,,Oh! Umika-chan!
+Dialogue: 0,0:19:19.91,0:19:21.90,Default,Haruno,0000,0000,0000,,That's just like her.
+Dialogue: 0,0:19:22.94,0:19:26.68,Default,Yu,0000,0000,0000,,I kinda feel like we forgot \Nabout our original goal.
+Dialogue: 0,0:19:26.94,0:19:28.68,Default,Yu,0000,0000,0000,,Well, whatever!
+Dialogue: 0,0:19:30.91,0:19:32.12,Default,Haruno,0000,0000,0000,,Matataki-chan!
+Dialogue: 0,0:19:32.12,0:19:34.47,Default,Haruno,0000,0000,0000,,We had a lot of fun today as well!
+Dialogue: 0,0:19:34.47,0:19:37.00,Default,Yu,0000,0000,0000,,So see you later, Matataki!
+Dialogue: 0,0:19:37.00,0:19:38.66,Default,Yu,0000,0000,0000,,Let's meet again at school!
+Dialogue: 0,0:19:39.14,0:19:40.45,Default,Yu,0000,0000,0000,,Umika!
+Dialogue: 0,0:19:40.45,0:19:42.42,Default,Yu,0000,0000,0000,,I want a drink, too!
+Dialogue: 0,0:19:42.42,0:19:44.45,Default,Yu,0000,0000,0000,,Oh, and one for Haruno!
+Dialogue: 0,0:19:44.45,0:19:47.64,Default,Haruno,0000,0000,0000,,You two! The vending machine's the other way!
+Dialogue: 0,0:19:48.60,0:19:50.13,Default,Matataki,0000,0000,0000,,What the hell?
+Dialogue: 0,0:19:50.13,0:19:52.10,Default,Matataki,0000,0000,0000,,What the hell's with them?
+Dialogue: 0,0:19:54.86,0:19:56.46,Default,Matataki,0000,0000,0000,,So stupid!
+Dialogue: 0,0:19:59.39,0:20:02.38,Default,Matataki,0000,0000,0000,,They really are so stupid.
+Dialogue: 0,0:20:05.97,0:20:07.97,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&H574C42&\3c&HB3AAA2&\b0\pos(435,25)}Raimon
+Dialogue: 0,0:20:09.91,0:20:11.37,Default,Yu,0000,0000,0000,,Checking her shoe locker?
+Dialogue: 0,0:20:12.96,0:20:15.18,Default,Yu,0000,0000,0000,,Think Matataki's here today?
+Dialogue: 0,0:20:23.42,0:20:24.66,Default,Yu,0000,0000,0000,,It'll be fine!
+Dialogue: 0,0:20:24.66,0:20:25.74,Default,Yu,0000,0000,0000,,Let's head to the classroom!
+Dialogue: 0,0:20:26.56,0:20:27.28,Default,Umika,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:40.53,0:20:42.06,Default,Yu,0000,0000,0000,,Bonavuu!
+Dialogue: 0,0:20:42.06,0:20:42.96,Default,Matataki,0000,0000,0000,,Cram it.
+Dialogue: 0,0:20:42.96,0:20:44.68,Default,Umika,0000,0000,0000,,R-Raimon-san!
+Dialogue: 0,0:20:44.68,0:20:46.49,Default,Matataki,0000,0000,0000,,Don't get me wrong.
+Dialogue: 0,0:20:46.49,0:20:49.20,Default,Matataki,0000,0000,0000,,I'm just here so I don't get \Nflunked for not attending.
+Dialogue: 0,0:20:50.48,0:20:52.22,Default,Haruno,0000,0000,0000,,Wearing your outdoor shoes, I see.
+Dialogue: 0,0:20:52.22,0:20:53.53,Default,Yu,0000,0000,0000,,No dirty shoes indoors!
+Dialogue: 0,0:20:53.53,0:20:55.90,Default,Matataki,0000,0000,0000,,I wiped them down, so it's fine!
+Dialogue: 0,0:20:56.29,0:20:58.35,Default,Matataki,0000,0000,0000,,I forgot my indoor shoes, okay?
+Dialogue: 0,0:21:07.95,0:21:09.16,Default,Matataki,0000,0000,0000,,Cut it out!
+Dialogue: 0,0:21:09.16,0:21:11.17,Default,Matataki,0000,0000,0000,,Stop staring at them so much!
+Dialogue: 0,0:21:15.62,0:21:21.21,Default,Matataki,0000,0000,0000,,You guys don't look like you'll ever \Nmanage to build a space rocket.
+Dialogue: 0,0:21:21.21,0:21:23.42,Default,Matataki,0000,0000,0000,,It ticks me off how undependable you are.
+Dialogue: 0,0:21:23.85,0:21:26.72,Default,Matataki,0000,0000,0000,,So I'll play along with you for a bit.
+Dialogue: 0,0:21:26.72,0:21:29.18,Default,Matataki,0000,0000,0000,,Just until I rack up enough attendance days.
+Dialogue: 0,0:21:29.50,0:21:30.30,Default,Matataki,0000,0000,0000,,Okay?
+Dialogue: 0,0:21:33.11,0:21:33.86,Default,Umika,0000,0000,0000,,Yeah!
+Dialogue: 0,0:23:05.33,0:23:06.78,Default,Haruno,0000,0000,0000,,Yu-chan! Yu-chan!
+Dialogue: 0,0:23:08.24,0:23:10.34,Default,Haruno,0000,0000,0000,,I want to try foreheadpathy, too!
+Dialogue: 0,0:23:09.15,0:23:11.66,Signs,Sign,0000,0000,0000,,{\fad(696,1)\fs30\blur0.2\fnComic Sans MS\c&H04BEEF&\3c&H94F8FF&\bord1.1\shad1.5\pos(189,88)}C{\c&H12E6FF&}'{\c&H04BEEF&}m{\c&H12E6FF&}o{\c&H04BEEF&}n{\c&H12E6FF&}-{\c&H04BEEF&}p{\c&H12E6FF&}a{\c&H04BEEF&}t{\c&H12E6FF&}h{\c&H04BEEF&}y{\c&H12E6FF&}!
+Dialogue: 0,0:23:10.34,0:23:11.66,Default,Yu,0000,0000,0000,,Okay!
+Dialogue: 0,0:23:14.58,0:23:15.32,Default,Yu,0000,0000,0000,,There!
+Dialogue: 0,0:23:30.76,0:23:34.93,Signs_NextEp,Sign,0000,0000,0000,,{\fad(813,1)\pos(320,92)}Episode 5\N\N\N\N\N\N\N\N\NEndless Dreamer
+Dialogue: 0,0:23:32.69,0:23:34.42,Default,Umika,0000,0000,0000,,Endless Dreamer.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,26)}When Launching Bottle Rockets:
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,91)}Launch rockets in an open area without any obstacles.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,114)}Never aim a rocket in the direction of others.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,139.5)}Children should be supervised by adults during launches.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,164)}Always follow the rules and put safety first!
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\pos(320,182.5)}When Launching Model Rockets:
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,246)}Make sure you have proper educator supervision.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,269)}Obtain all permission needed before launching rockets\N\Nor purchasing rocket parts like black powder or engines.
+Dialogue: 0,0:23:34.93,0:23:39.93,Signs,Sign,0000,0000,0000,,{\bord2\fnTimes New Roman\c&HF6F2EE&\3c&H311104&\fs14\pos(320,317.5)}Always follow rules and regulations, and put safety first!
 
